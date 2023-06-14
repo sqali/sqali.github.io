@@ -11,7 +11,7 @@ toc_icon: "bookmark"
 
 ## 📧 Contact
 - Email: [tranduckhanh96@gmail.com]()
-- LinkedIn: [linkedin.com/in/chriskhanhtran/](https://www.linkedin.com/in/chriskhanhtran/)
+- LinkedIn: [linkedin.com/in/sayed-qaiser-ali-916b181ab/](https://www.linkedin.com/in/sqali/)
 
 ## 💼 Experience
 ### Etsy, Inc.

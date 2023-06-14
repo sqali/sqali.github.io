@@ -17,7 +17,7 @@ header:
 
 ---
 
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/bert-extractive-summarization)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/bert-extractive-summarization)
 
 ## 1. Introduction
 
@@ -35,7 +35,7 @@ In this section we will explore the architecture of our extractive summarization
 
 ### BERT Encoder
 
-![](https://github.com/chriskhanhtran/minimal-portfolio/blob/master/images/bertsum.jpeg?raw=true)
+![](https://github.com/sqali/minimal-portfolio/blob/master/images/bertsum.jpeg?raw=true)
 
 *The overview architecture of BERTSUM*
 
@@ -53,7 +53,7 @@ Transformer models achieve state-of-the-art performance in most NLP bechmarks; h
 
 Here are training losses of these 3 variants: [TensorBoard](https://tensorboard.dev/experiment/Ly7CRURRSOuPBlZADaqBlQ/#scalars)
 
-![](https://github.com/chriskhanhtran/bert-extractive-summarization/raw/master/tensorboard.JPG)
+![](https://github.com/sqali/bert-extractive-summarization/raw/master/tensorboard.JPG)
 
 Despite being 40% smaller than BERT-base, DistilBERT has the same training losses as BERT-base while MobileBERT performs slightly worse. The table below shows their performance on CNN/DailyMail dataset, size and running time of a forward pass:
 
@@ -69,13 +69,13 @@ Being 45% faster, DistilBERT have almost the same performance as BERT-base. Mobi
 
 ## 4. Let's Summarize
 
-All pretrained checkpoints, training details and setup instruction can be found in [this GitHub repository](https://github.com/chriskhanhtran/bert-extractive-summarization/). In addition, I have deployed a demo of BERTSUM with the MobileBERT encoder.
+All pretrained checkpoints, training details and setup instruction can be found in [this GitHub repository](https://github.com/sqali/bert-extractive-summarization/). In addition, I have deployed a demo of BERTSUM with the MobileBERT encoder.
 
 **Web app:** https://extractive-summarization.herokuapp.com/
 
 [![](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://extractive-summarization.herokuapp.com/)
 
-![](https://github.com/chriskhanhtran/minimal-portfolio/blob/master/images/bertsum.gif?raw=true)
+![](https://github.com/sqali/minimal-portfolio/blob/master/images/bertsum.gif?raw=true)
 
 **Code:**
 

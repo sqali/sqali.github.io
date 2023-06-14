@@ -7,7 +7,7 @@ header:
 
 <img src="https://sqali.github.io/assets/images/about-me-600x600.png" width="250">{: .align-center}
 
-[Resume](https://sqali.github.io/cv/){: .btn .btn--info} [Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/chriskhanhtran/){: .btn .btn--info}
+[Resume](https://sqali.github.io/cv/){: .btn .btn--info} [Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/sayed-qaiser-ali-916b181ab/){: .btn .btn--info}
 {: .text-center}
 
 ## Career Objectives

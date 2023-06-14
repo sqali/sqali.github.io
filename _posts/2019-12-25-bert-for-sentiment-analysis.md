@@ -384,7 +384,7 @@ plt.show()
     
 
 
-![png](https://raw.githubusercontent.com/chriskhanhtran/bert-for-sentiment-analysis/master/output_32_1.png)
+![png](https://raw.githubusercontent.com/sqali/bert-for-sentiment-analysis/master/output_32_1.png)
 
 
 ### 2.2. Evaluation on Validation Set
@@ -442,7 +442,7 @@ evaluate_roc(probs, y_val)
     
 
 
-![png](https://raw.githubusercontent.com/chriskhanhtran/bert-for-sentiment-analysis/master/output_37_1.png)
+![png](https://raw.githubusercontent.com/sqali/bert-for-sentiment-analysis/master/output_37_1.png)
 
 
 # D - Fine-tuning BERT
@@ -966,7 +966,7 @@ evaluate_roc(probs, y_val)
     
 
 
-![png](https://raw.githubusercontent.com/chriskhanhtran/bert-for-sentiment-analysis/master/output_69_1.png)
+![png](https://raw.githubusercontent.com/sqali/bert-for-sentiment-analysis/master/output_69_1.png)
 
 
 The Bert Classifer achieves 0.90 AUC score and 82.65% accuracy rate on the validation set. This result is 10 points better than the baseline method. 

@@ -65,7 +65,7 @@ My reading list of research papers, articles, books and authors in Deep Learning
 - ⏳ [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
 - ⏳ [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
 - ✅ [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
-- 👨‍🔬 [Generative_Adversarial_Networks](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb)
+- 👨‍🔬 [Generative_Adversarial_Networks](https://github.com/sqali/CS231n-CV/blob/master/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb)
 
 # 2. Books
 - ⏳ [Deep Learning](http://www.deeplearningbook.org/)

@@ -14,7 +14,7 @@ header:
   teaser: "https://www.google.com/logos/doodles/2020/celebrating-banh-mi-6753651837108330.3-2xa.gif"
 ---
 
-[![](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=GitHub)](https://github.com/chriskhanhtran/vn-food-app)
+[![](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=GitHub)](https://github.com/sqali/vn-food-app)
 
 Imagine that you are a world traveller and are traveling to a country famous for its street foods. Walking in a night market street full of food trucks with many delicious-looking options, you have no idea what these foods are and whether they contain any ingredient you are allergic to. You want to ask the local but you don't know the language. You wish that you have an app on your phone that allows you to take a picture of that food you want to have and will return all the information you need to know about it.
 
@@ -513,7 +513,7 @@ I have also built a web app for this model. Check it out below:
 
 [![](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://vietnamese-food.herokuapp.com/)
 
-![](https://github.com/chriskhanhtran/vn-food-app/blob/master/img/vn-food-app.gif?raw=true)
+![](https://github.com/sqali/vn-food-app/blob/master/img/vn-food-app.gif?raw=true)
 
 ## Conclusion
 

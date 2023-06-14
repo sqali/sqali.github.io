@@ -23,7 +23,7 @@ At ICLR 2020, [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than
 
 Different from other masked language modeling methods, ELECTRA is a more sample-efficient pre-training task called replaced token detection. At a small scale, ELECTRA-small can be trained on a single GPU for 4 days to outperform [GPT (Radford et al., 2018)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) (trained using 30x more compute) on the GLUE benchmark. At a large scale, ELECTRA-large outperforms [ALBERT (Lan et al., 2019)]() on GLUE and sets a new state-of-the-art for SQuAD 2.0.
 
-![](https://github.com/chriskhanhtran/spanish-bert/blob/master/img/electra-performance.JPG?raw=true)
+![](https://github.com/sqali/spanish-bert/blob/master/img/electra-performance.JPG?raw=true)
 *ELECTRA consistently outperforms masked language model pre-training approaches.*
 {: .text-center}
 
@@ -33,7 +33,7 @@ Masked language modeling pre-training methods such as [BERT (Devlin et al., 2019
 
 Instead of masking, ELECTRA corrupts the input by replacing some tokens with samples from the outputs of a smalled masked language model. Then, a discriminative model is trained to predict whether each token was an original or a replacement. After pre-training, the generator is thrown out and the discriminator is fine-tuned on downstream tasks.
 
-![](https://github.com/chriskhanhtran/spanish-bert/blob/master/img/electra-overview.JPG?raw=true)
+![](https://github.com/sqali/spanish-bert/blob/master/img/electra-overview.JPG?raw=true)
 *An overview of ELECTRA.*
 {: .text-center}
 
@@ -46,7 +46,7 @@ With a new training objective, ELECTRA can achieve comparable performance to str
 - ELECTRA is greatly benefiting from having a loss defined over all input tokens rather than just a subset. More specifically, in ELECTRA, the discriminator predicts on every token in the input, while in BERT, the generator only predicts 15% masked tokens of the input.
 - BERT's performance is slightly harmed because in the pre-training phase, the model sees `[MASK]` tokens, while it is not the case in the fine-tuning phase.
 
-![](https://github.com/chriskhanhtran/spanish-bert/blob/master/img/electra-vs-bert.JPG?raw=true)
+![](https://github.com/sqali/spanish-bert/blob/master/img/electra-vs-bert.JPG?raw=true)
 *ELECTRA vs. BERT*
 {: .text-center}
 
@@ -166,7 +166,7 @@ tensorboard dev upload --logdir data/models/electra-spanish
 
 This is the [TensorBoard](https://tensorboard.dev/experiment/AmaGBV3RTGOB1leXGGsJmw/#scalars) of training ELECTRA-small for 1 million steps in 4 days on a V100 GPU.
 
-<img src="https://github.com/chriskhanhtran/spanish-bert/blob/master/img/electra-tensorboard.JPG?raw=true" width="400">{: .align-center}
+<img src="https://github.com/sqali/spanish-bert/blob/master/img/electra-tensorboard.JPG?raw=true" width="400">{: .align-center}
 
 ## 4. Convert Tensorflow checkpoints to PyTorch format
 

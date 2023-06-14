@@ -338,7 +338,7 @@ data_loader(train_inputs, val_inputs, train_labels, val_labels, batch_size=50)
 
 The picture below is the illustration of the CNN architecture that we are going to build with three filter sizes: 2, 3, and 4, each of which has 2 filters.
 
-<img src="https://github.com/chriskhanhtran/CNN-Sentence-Classification-PyTorch/blob/master/cnn-architecture.JPG?raw=true" width="650">{: .align-center}
+<img src="https://github.com/sqali/CNN-Sentence-Classification-PyTorch/blob/master/cnn-architecture.JPG?raw=true" width="650">{: .align-center}
 *CNN Architecture (Source: Zhang, 2015)*
 {: .text-center}
 {: .small}

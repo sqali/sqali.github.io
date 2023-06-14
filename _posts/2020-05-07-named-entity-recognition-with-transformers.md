@@ -13,10 +13,10 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 excerpt: "In this blog post, to really leverage the power of transformer models, we will fine-tune SpanBERTa for a named-entity recognition task."
 header:
-  teaser: https://github.com/chriskhanhtran/spanish-bert/blob/master/img/part2.PNG?raw=true
+  teaser: https://github.com/sqali/spanish-bert/blob/master/img/part2.PNG?raw=true
 
 ---
-![](https://github.com/chriskhanhtran/spanish-bert/blob/master/img/part2.PNG?raw=true)
+![](https://github.com/sqali/spanish-bert/blob/master/img/part2.PNG?raw=true)
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ezuE7wC7Fa21Wu3fvzRffx2m14CAySS1#scrollTo=LhKZ3vItVBzi)
 
@@ -120,7 +120,7 @@ Let's define some variables that we need for further pre-processing steps and tr
 
 ```python
 MAX_LENGTH = 120 #@param {type: "integer"}
-MODEL = "chriskhanhtran/spanberta" #@param ["chriskhanhtran/spanberta", "bert-base-multilingual-cased"]
+MODEL = "sqali/spanberta" #@param ["sqali/spanberta", "bert-base-multilingual-cased"]
 ```
 
 The script below will split sentences longer than `MAX_LENGTH` (in terms of tokens) into small ones. Otherwise, long sentences will be truncated when tokenized, causing the loss of training data and some tokens in the test set not being predicted.
@@ -176,8 +176,8 @@ These are the example scripts from `transformers`'s repo that we will use to fin
 
 ```python
 %%capture
-!wget "https://raw.githubusercontent.com/chriskhanhtran/spanish-bert/master/ner/run_ner.py"
-!wget "https://raw.githubusercontent.com/chriskhanhtran/spanish-bert/master/ner/utils_ner.py"
+!wget "https://raw.githubusercontent.com/sqali/spanish-bert/master/ner/run_ner.py"
+!wget "https://raw.githubusercontent.com/sqali/spanish-bert/master/ner/utils_ner.py"
 ```
 
 Now it's time for transfer learning. In my [previous blog post](https://sqali.github.io/posts/spanberta-bert-for-spanish-from-scratch/), I have pretrained a RoBERTa language model on a very large Spanish corpus to predict masked words based on the context they are in. By doing that, the model has learned inherent properties of the language. I have uploaded the pretrained model to Hugging Face's server. Now we will load the model and start fine-tuning it for the NER task.
@@ -187,7 +187,7 @@ Below are our training hyperparameters.
 
 ```python
 MAX_LENGTH = 128 #@param {type: "integer"}
-MODEL = "chriskhanhtran/spanberta" #@param ["chriskhanhtran/spanberta", "bert-base-multilingual-cased"]
+MODEL = "sqali/spanberta" #@param ["sqali/spanberta", "bert-base-multilingual-cased"]
 OUTPUT_DIR = "spanberta-ner" #@param ["spanberta-ner", "bert-base-ml-ner"]
 BATCH_SIZE = 32 #@param {type: "integer"}
 NUM_EPOCHS = 3 #@param {type: "integer"}
@@ -237,7 +237,7 @@ Performance on the test set:
 
 Here are the tensorboards of fine-tuning [spanberta](https://tensorboard.dev/experiment/Ggs7aCjWQ0exU2Nbp3pPlQ/#scalars&_smoothingWeight=0.265) and [bert-base-multilingual-cased](https://tensorboard.dev/experiment/M9AXw2lORjeRzFZzEJOxkA/#scalars) for 5 epoches. We can see that the models overfit the training data after 3 epoches.
 
-![](https://raw.githubusercontent.com/chriskhanhtran/spanish-bert/master/img/spanberta-ner-tb-5.JPG)
+![](https://raw.githubusercontent.com/sqali/spanish-bert/master/img/spanberta-ner-tb-5.JPG)
 
 
 
