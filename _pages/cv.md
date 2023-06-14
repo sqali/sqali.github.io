@@ -10,7 +10,7 @@ toc_icon: "bookmark"
 *Updated: 08/12/2020*
 
 ## 📧 Contact
-- Email: [tranduckhanh96@gmail.com]()
+- Email: [qaiserali45@gmail.com]()
 - LinkedIn: [linkedin.com/in/sayed-qaiser-ali-916b181ab/](https://www.linkedin.com/in/sqali/)
 
 ## 💼 Experience
