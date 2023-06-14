@@ -4,4 +4,4 @@ permalink: /posts/
 layout: posts
 ---
 
-Browse [posts by tag](https://chriskhanhtran.github.io/tags/).
+Browse [posts by tag](https://sqali.github.io/tags/).

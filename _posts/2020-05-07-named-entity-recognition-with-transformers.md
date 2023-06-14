@@ -22,7 +22,7 @@ header:
 
 # Introduction
 
-- [Part I: How We Trained RoBERTa Language Model for Spanish from Scratch](https://chriskhanhtran.github.io/posts/spanberta-bert-for-spanish-from-scratch/)
+- [Part I: How We Trained RoBERTa Language Model for Spanish from Scratch](https://sqali.github.io/posts/spanberta-bert-for-spanish-from-scratch/)
 
 In my previous blog post, we have discussed how my team pretrained SpanBERTa, a transformer language model for Spanish, on a big corpus from scratch. The model has shown to be able to predict correctly masked words in a sequence based on its context. In this blog post, to really leverage the power of transformer models, we will fine-tune SpanBERTa for a named-entity recognition task.
 
@@ -180,7 +180,7 @@ These are the example scripts from `transformers`'s repo that we will use to fin
 !wget "https://raw.githubusercontent.com/chriskhanhtran/spanish-bert/master/ner/utils_ner.py"
 ```
 
-Now it's time for transfer learning. In my [previous blog post](https://chriskhanhtran.github.io/posts/spanberta-bert-for-spanish-from-scratch/), I have pretrained a RoBERTa language model on a very large Spanish corpus to predict masked words based on the context they are in. By doing that, the model has learned inherent properties of the language. I have uploaded the pretrained model to Hugging Face's server. Now we will load the model and start fine-tuning it for the NER task.
+Now it's time for transfer learning. In my [previous blog post](https://sqali.github.io/posts/spanberta-bert-for-spanish-from-scratch/), I have pretrained a RoBERTa language model on a very large Spanish corpus to predict masked words based on the context they are in. By doing that, the model has learned inherent properties of the language. I have uploaded the pretrained model to Hugging Face's server. Now we will load the model and start fine-tuning it for the NER task.
 
 Below are our training hyperparameters.
 
@@ -391,6 +391,6 @@ Named-entity recognition can help us quickly extract important information from 
 
 We have walked through how we can leverage a pretrained BERT model to quickly gain an excellent performance on the NER task for Spanish. The pretrained SpanBERTa model can also be fine-tuned for other tasks such as document classification. I have written a detailed tutorial to finetune BERT for sequence classification and sentiment analysis.
 
-- [Fine-tuning BERT for Sentiment Analysis](https://chriskhanhtran.github.io/posts/bert-for-sentiment-analysis/)
+- [Fine-tuning BERT for Sentiment Analysis](https://sqali.github.io/posts/bert-for-sentiment-analysis/)
 
 Next in this series, we will discuss ELECTRA, a more efficient pre-training approach for transformer models which can quickly achieve state-of-the-art performance. Stay tuned!

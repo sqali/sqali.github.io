@@ -939,4 +939,4 @@ predict("I don't like the ending.", model=net)
 Before the rise of huge and complicated models using Transformer architecture, a simple CNN architecture with one layer of convolution can yield excellent performance on sentence classification tasks. The model can take advantages of unsupervised pre-training of word vectors to improve overall performance. Improvements can be made in this architecture by increasing the number of CNN layers or using sub-word model (using BPE tokenizer and fastText pretrained sub-word vectors). Because of its speed, we can use the CNN model as a strong baseline before trying more complicated models such as BERT.
 
 Thank you for staying with me to this point. If interested, you can check out other articles in my NLP tutorial series:
-- [Tutorial: Fine-tuning BERT for Sentiment Analysis](https://chriskhanhtran.github.io/posts/bert_for_sentiment_analysis/)
+- [Tutorial: Fine-tuning BERT for Sentiment Analysis](https://sqali.github.io/posts/bert_for_sentiment_analysis/)

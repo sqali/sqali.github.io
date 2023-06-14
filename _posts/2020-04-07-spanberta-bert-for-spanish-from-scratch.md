@@ -21,7 +21,7 @@ header:
 
 # Introduction
 
-- [Part II: Fine-tuning SpanBERTa for Named Entity Recognition](https://chriskhanhtran.github.io/posts/named-entity-recognition-with-transformers/)
+- [Part II: Fine-tuning SpanBERTa for Named Entity Recognition](https://sqali.github.io/posts/named-entity-recognition-with-transformers/)
 
 Self-training methods with transformer models have achieved state-of-the-art performance on most NLP tasks. However, because training them is computationally expensive, most currently available pretrained transformer models are only for English. Therefore, to improve performance on NLP tasks in our projects on Spanish, my team at [**Skim AI**](https://skimai.com/) decided to train a **RoBERTa** language model for Spanish from scratch and call it SpanBERTa.
 
