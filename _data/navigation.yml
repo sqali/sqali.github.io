@@ -4,10 +4,6 @@ main:
     url: /portfolio/
   - title: "Blog"
     url: /posts/
-  - title: "Resources"
-    url: /resources/   
-  - title: "Films"
-    url: /films/
   - title: "CV"
     url: /cv/
   - title: "About"
