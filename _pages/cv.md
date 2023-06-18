@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-[Download Resume](https://sqali.github.io/files/20200812-resume.pdf){: .btn .btn--info}
+[Download Resume](https://sqali.github.io/files/resume.pdf){: .btn .btn--info}
 
 *Updated: 08/12/2020*
 
