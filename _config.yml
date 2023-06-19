@@ -125,9 +125,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/qaiser_707"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
@@ -150,9 +147,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/qaiser_707"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg      
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    # url:
