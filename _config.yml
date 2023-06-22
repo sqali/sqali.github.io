@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sayed Qaiser Ali"
   avatar           : "/assets/images/profile-photo.png"
-  location         : <br>
+  location         :
   email            : 
   links:
     - label: "Email"
