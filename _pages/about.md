@@ -11,14 +11,18 @@ header:
 {: .text-center}
 
 ## Career Objectives
-My name is Sayed Qaiser Ali. I am a Machine Learning Engineer with industry experiences in Deep Learning, NLP and Computer Vision. I am currently a **Computer Vision Intern** at **Etsy**, where I develop Deep Learning frameworks to improve personalization and image-based recommendations. Besides that, I works as a part-time **Machine Learning Researcher** at **Skim AI Technologies**, where I apply latest research in Deep Learning NLP to make machines understand human languages better. Projects I worked on include Named Entity Recognition (NER), Document Classification, large-scale Sentiment Analysis and Summarization.
+My name is Sayed Qaiser Ali. I am a **Oracle PPM analyst** at **TCS**,  I have gained valuable experience in managing projects and analyzing data within the Oracle ecosystem. However, my true passion lies in the field of **Data Science**, and I am eager to make a transition into this exciting and rapidly evolving field.
 
-I am pursuing a STEM master's degree at the **University of Rochester**, where I receive solid training in Statistics, Machine Learning and Programming. I am proficient in Python and R programming languages, data retrieval and processing with SQL, data visualization with Tableau, Matplotlib and Seaborn. I am interested in working with large datasets, including cleaning, connecting and mining data. I have completed Data Science projects and Kaggle competitions, where I built, tuned and ensembled machine learning models including Regresisons (Ridge, Lasso), Random Forest, SVM, XGBoost and LightGBM. I am very proficient at using PyTorch to build and deploy cutting-egde AI systems to solve NLP and CV problems. More details about these projects can be found below:
+My desire to become a Data Scientist stems from my fascination with extracting meaningful insights from complex data sets. I thrive on the challenge of uncovering patterns, trends, and correlations that can drive informed decision-making and lead to innovative solutions. I am driven by the potential to leverage data-driven approaches to solve real-world problems and make a positive impact.
+
+One of the ways I actively contribute to the data science community is through my involvement in open source projects. I firmly believe in the power of collaboration and sharing knowledge. By participating in open source projects, I have had the opportunity to work alongside like-minded individuals, contribute to cutting-edge technologies, and continuously enhance my skills.
+
+Apart from coding and technical expertise, I also have a strong inclination towards creating documentation and sharing my insights through blog posts. I believe that clear and concise communication is essential in effectively conveying complex concepts. Through my documentation and blog writing, I strive to simplify complex topics, making them accessible to a wider audience. I enjoy distilling complex ideas into coherent narratives, empowering others to grasp new concepts and deepen their understanding.
 
 [View My Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
 
-I love to read AI blogs, watch YouTube tutorials and listen to AI podcasts. I am learning so much from the AI community, where knowledge is shared to challenge the boundary of computer intelligence. In addition, as an NLP researcher, I frequently publish articles to discuss recent research papers in Deep Learning and open-source projects to apply state-of-the-art technologies in NLP such as BERT and ELECTRA.
+I love to read AI blogs, watch YouTube tutorials and listen to AI podcasts. I am learning so much from the AI community, where knowledge is shared to challenge the boundary of computer intelligence.
 
 [Read My Blog Posts](https://sqali.github.io/posts/){: .btn .btn--info}
 {: .text-center}
