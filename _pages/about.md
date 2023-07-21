@@ -2,7 +2,6 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/about-header-1566x403.jpg 
 ---
 
 <img src="https://sqali.github.io/assets/images/about-me-600x600.png" width="250">{: .align-center}
