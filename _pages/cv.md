@@ -43,7 +43,8 @@ I frequently publish articles to discuss recent research in Natural Language Pro
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, Keras, PyTorch, TensorFlow), C++, Linux
 - **Others:** 
   - Database: MySQL
-  - Cloud Computing: Azure, AWS EC2, GCP, Docker
+  - Cloud Computing: Azure, AWS
+  - Containerization Tools - Docker
   - Visualization: Matplotlib, Seaborn, Plotly
   - Statistical Tools: Oracle Cloud Analytics, Excel
   - Version Control: Git, GitHub
