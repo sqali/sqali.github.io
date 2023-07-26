@@ -22,14 +22,6 @@ A series of notebooks to dive deep into popular datasets for object detection an
 
 <img src="https://raw.githubusercontent.com/sqali/object-detection-detectron2/master/images/output_04.png" width="580">{: .align-center}
 
-### Visual Recognition for Vietnamese Foods
-
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://vietnamese-food.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://sqali.github.io/posts/vn-food-classifier/)
-
-I built a Computer Vision application to recognize popular Vietnamese dishes and display their information and stories. To build the application, I crawled 6,000 images using the Bing Image Search API and trained a ResNet-50 model. The model achieved 94% accuracy over 11 classes.
-
-<img src="https://github.com/sqali/vn-food-app/blob/master/img/vn-food-app.gif?raw=true" width="580">{: .align-center}
 
 ### CS231n: Convolutional Neural Networks for Visual Recognition
 
@@ -44,65 +36,8 @@ This is my complete implementation of assignments and projects in [***CS231n: Co
 - [Style Transfer](https://github.com/sqali/CS231n-CV/blob/master/assignment3/StyleTransfer-PyTorch.ipynb)
 - [Generative Adversarial Networks (GANs)](https://github.com/sqali/CS231n-CV/blob/master/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb)
 
-## 🎼 Natural Language Processing
-### Extractive Summarization with BERT
-[![Read Article](https://img.shields.io/badge/GitHub-Read_Article-blue?logo=GitHub)](https://sqali.github.io/posts/extractive-summarization-with-bert/)
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://extractive-summarization.herokuapp.com/)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/bert-extractive-summarization)
-
-I implemented the paper [Text Summarization with Pretrained Encoders (Liu & Lapata, 2019)](https://arxiv.org/abs/1908.08345) and trained MobileBERT and DistilBERT for extractive summarization. I also built a web app demo to illustrate the usage of the model.
-
-<img src="https://github.com/sqali/minimal-portfolio/raw/master/images/bertsum.gif?raw=true">{: .align-center}
-
-### Transformers for Spanish
-A series of published articles with GitHub repository about my research and work projects in Transformer and its application on Spanish.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/spanish-bert)
-
-**Articles:**
-- [Pre-train ELECTRA for Spanish from Scratch](https://sqali.github.io/posts/electra-spanish/)
-- [SpanBERTa: Pre-train RoBERTa Language Model for Spanish from Scratch](https://sqali.github.io/posts/named-entity-recognition-with-transformers/)
-- [Named Entity Recognition with Transformers](https://sqali.github.io/posts/spanberta-bert-for-spanish-from-scratch/)
-
-### CS224n: Natural Language Processing with Deep Learning
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/CS224n-NLP-Solutions/tree/master/assignments/)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/sqali/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/sqali/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<img src="https://sqali.github.io/minimal-portfolio/images/nlp.png" width="580">{: .align-center}
 
 ---
-### Social Media Analytics for Airline Industry: Fine-tuning BERT for Sentiment Analysis
-
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-
-The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.
-
-<img src="https://raw.githubusercontent.com/sqali/minimal-portfolio/master/images/finetuning-bert.png" width="580">{: .align-center}
-
----
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://sqali.github.io/minimal-portfolio/projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/facebook-detect-food-trends)
-
-First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.
-
-<img src="https://sqali.github.io/minimal-portfolio/images/fb-food-trends.png" width="580">{: .align-center}
-
----
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://sqali.github.io/minimal-portfolio/projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
-
-In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.
-
-<img src="https://sqali.github.io/minimal-portfolio/images/detect-spam-nlp.png" width="580">{: .align-center}
 
 ## 📈 Data Science
 ### Credit Risk Prediction Web App
@@ -125,15 +60,6 @@ I performed comprehensive EDA to understand important variables, handled missing
 
 <img src="https://sqali.github.io/assets/images/portfolio/ames-house-price.jpg" width="580">{: .align-center}
 
----
-### Predict Breast Cancer with RF, PCA and SVM using Python
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://sqali.github.io/minimal-portfolio/projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
-
-In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.
-
-<img src="https://sqali.github.io/minimal-portfolio/images/breast-cancer.png" width="580">{: .align-center}
 
 ---
 ### Business Analytics Conference 2018: How is NYC's Government Using Money?
