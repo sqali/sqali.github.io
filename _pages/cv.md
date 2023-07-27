@@ -43,14 +43,16 @@ I frequently publish articles to discuss recent research in Natural Language Pro
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, Keras, PyTorch, TensorFlow), C++, Linux
 - **Others:** 
   - Database: MySQL
-  - Cloud Computing: Azure, AWS
+  - Cloud Computing: Oracle, Azure, AWS
   - Containerization Tools - Docker
-  - Visualization: Matplotlib, Seaborn, Plotly
-  - Statistical Tools: Oracle Cloud Analytics, Excel
+  - Visualization: Oracle Analytics Cloud, Matplotlib, Seaborn, Plotly
+  - Statistical Tools: Excel
   - Version Control: Git, GitHub
   - Graphics design: Figma, Canva
 
 ## 📜 Certifications
 - Oracle Cloud Infrastructure Architect Associate (**1Z0-1072-23**)
+- Oracle Cloud Infrastructure Data Science Professional (**1Z0-1110-23**)
+- Oracle Cloud Infrastructure Enterprise Analytics Professional (**1Z0-1041-23**)
 - Azure Data Scientist Associate (**DP-100**)
-- GitHub Actions 
+- GitHub Actions
