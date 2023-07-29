@@ -18,4 +18,6 @@ toc_icon: "bookmark"
 
 ## ![GitHub Avatar](https://avatars.githubusercontent.com/u/21003710?s=48&v=4) PyTorch
 
+## ![GitHub Avatar](https://avatars.githubusercontent.com/u/1728152?s=40&v=4) Nvidia
+
 ## ![GitHub Avatar](https://avatars.githubusercontent.com/u/21206976?s=48&v=4) Pandas
