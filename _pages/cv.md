@@ -51,8 +51,8 @@ I frequently publish articles to discuss recent research in Natural Language Pro
   - Graphics design: Figma, Canva
 
 ## 📜 Certifications
-- Oracle Cloud Infrastructure Architect Associate (**1Z0-1072-23**)
-- Oracle Cloud Infrastructure Data Science Professional (**1Z0-1110-23**)
-- Oracle Cloud Infrastructure Enterprise Analytics Professional (**1Z0-1041-23**)
-- Azure Data Scientist Associate (**DP-100**)
+- Oracle Cloud Infrastructure Architect Associate                 (**1Z0-1072-23**) [verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306)
+- Oracle Cloud Infrastructure Data Science Professional           (**1Z0-1110-23**)
+- Oracle Cloud Infrastructure Enterprise Analytics Professional   (**1Z0-1041-23**)
+- Azure Data Scientist Associate                                  (**DP-100**)
 - GitHub Actions
