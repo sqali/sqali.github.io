@@ -50,12 +50,48 @@ I frequently publish articles to discuss recent research in Natural Language Pro
   - Version Control: Git, GitHub
   - Graphics design: Figma, Canva
 
-## 📜 Certifications
-| Certifications                                                  |    Code       | Acquired | Cred URL   |
-|-----------------------------------------------------------------|---------------|----------|------------|
-| Oracle Cloud Infrastructure Architect Associate                 | 1Z0-1072-23   | &#x2705; | [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306) |
-| Oracle Cloud Infrastructure Data Science Professional           | 1Z0-1110-23   | &#x2705; | [Verify]() |
-| Oracle Cloud Infrastructure Enterprise Analytics Professional   | 1Z0-1041-23   | &#x2705; | [Verify]() |
-| Microsoft Azure Data Scientist Associate                        | DP-100        | &#x2705; | [Verify]() |
-| GitHub Actions                                                  |               | &#x2705; | [Verify]() |
+
+<h2>📜 Certifications</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Certifications</th>
+            <th>Code</th>
+            <th>Acquired</th>
+            <th>Cred URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Oracle Cloud Infrastructure Architect Associate</td>
+            <td>1Z0-1072-23</td>
+            <td>&#x2705;</td>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306">Verify</a></td>
+        </tr>
+        <tr>
+            <td>Oracle Cloud Infrastructure Data Science Professional</td>
+            <td>1Z0-1110-23</td>
+            <td>&#x2705;</td>
+            <td><a href="#">Verify</a></td>
+        </tr>
+        <tr>
+            <td>Oracle Cloud Infrastructure Enterprise Analytics Professional</td>
+            <td>1Z0-1041-23</td>
+            <td>&#x2705;</td>
+            <td><a href="#">Verify</a></td>
+        </tr>
+        <tr>
+            <td>Microsoft Azure Data Scientist Associate</td>
+            <td>DP-100</td>
+            <td>&#x2705;</td>
+            <td><a href="#">Verify</a></td>
+        </tr>
+        <tr>
+            <td>GitHub Actions</td>
+            <td></td>
+            <td>&#x2705;</td>
+            <td><a href="#">Verify</a></td>
+        </tr>
+    </tbody>
+</table>
 
