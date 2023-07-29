@@ -6,5 +6,4 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
 
-<iframe src="https://github.com/sqali" width="600" height="600"></iframe>
-
+![SQAli's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqali&show_icons=true)
