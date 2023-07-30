@@ -69,3 +69,13 @@ I performed comprehensive EDA to understand important variables, handled missing
 In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.
 
 <img src="https://sqali.github.io/assets/images/portfolio/bac2018.JPG" width="580">{: .align-center}
+
+
+## 🤖 Computer Vision
+### Document classification using Convolutional Neural Networks
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/Applied-AI-Assignments/tree/main/Document%20Classification%20Using%20CNN)
+
+This project entails the development of a Convolutional Neural Network (CNN) for the task of document classification. I worked with a dataset of text documents, utilizing the filenames for class label extraction. The challenge involves preprocessing the text data, designing and training a CNN model for classification, and evaluating its performance on this multi-class text categorization task.
+
+<img src="https://sqali.github.io/assets/images/portfolio/1_BEaZkpZJ4mFR-i2U4VOXsA.png" width="580">{: .align-center}
