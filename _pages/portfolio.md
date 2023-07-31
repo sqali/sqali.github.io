@@ -83,6 +83,8 @@ This project entails the development of a Convolutional Neural Network (CNN) for
 ## 🎵 Automatic Speech Recognition
 ### Spoken Digit Recognition using LSTM
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/Spoken-Digit-Recognition)
+
 The project revolves around Spoken Digit Recognition. The task involves reading and preprocessing a dataset of speech signals, with the goal of predicting the spoken digit. The project requires the use of LSTM networks for training both raw data and spectrogram-converted data. An additional task is to create augmented data and repeat the training process. The work should follow the provided instructions and graders, and return outputs in the specified formats.
 
 <img src="https://sqali.github.io/assets/images/portfolio/spoken_digit_image.png" width="580">{: .align-center}
