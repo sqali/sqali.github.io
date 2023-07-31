@@ -79,3 +79,11 @@ In three-month research and a two-day hackathon, I led a team of four students t
 This project entails the development of a Convolutional Neural Network (CNN) for the task of document classification. I worked with a dataset of text documents, utilizing the filenames for class label extraction. The challenge involves preprocessing the text data, designing and training a CNN model for classification, and evaluating its performance on this multi-class text categorization task.
 
 <img src="https://sqali.github.io/assets/images/portfolio/1_BEaZkpZJ4mFR-i2U4VOXsA.png" width="580">{: .align-center}
+
+## 🎵 Automatic Speech Recognition
+### Spoken Digit Recognition using LSTM
+
+The project revolves around Spoken Digit Recognition. The task involves reading and preprocessing a dataset of speech signals, with the goal of predicting the spoken digit. The project requires the use of LSTM networks for training both raw data and spectrogram-converted data. An additional task is to create augmented data and repeat the training process. The work should follow the provided instructions and graders, and return outputs in the specified formats.
+
+<img src="https://sqali.github.io/assets/images/portfolio/spoken_digit_image.png" width="580">{: .align-center}
+
