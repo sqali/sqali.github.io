@@ -7,7 +7,7 @@ toc_icon: "bookmark"
 ---
 [Download Resume](https://sqali.github.io/files/resume.pdf){: .btn .btn--info}
 
-*Updated: 08/12/2020*
+*Updated: 02/08/2023*
 
 ## 📧 Contact
 - Email: [qaiserali45@gmail.com]()
