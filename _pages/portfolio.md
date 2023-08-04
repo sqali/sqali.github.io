@@ -26,6 +26,13 @@ The project revolves around Spoken Digit Recognition. The task involves reading 
 
 <img src="https://sqali.github.io/assets/images/portfolio/spoken_digit_image.png" width="580">{: .align-center}
 
+## 🗣️ Language Translation
+### Translating Arabic Language to English
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/Arabic-to-English)
+
+Using deep learning for Arabic-to-English translation, this project aims to bridge linguistic barriers by developing an advanced neural network model. Leveraging the power of artificial intelligence, the system will process complex language structures and nuances, enabling accurate and contextually relevant translations. The project seeks to enhance cross-cultural communication, fostering better understanding and accessibility between Arabic and English speakers in various domains.
+
 
 <!--**Selective Topics:**
 - [NumPy Implementations of CNN](https://github.com/sqali/CS231n-CV/blob/master/assignment2/cs231n/layers.py): Fully-connected Layer, Batchnorm, Layernorm, Dropout, Convolution, Maxpool.
