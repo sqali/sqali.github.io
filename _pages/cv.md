@@ -70,7 +70,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         <tr>
             <td>Data Management</td>
-            <td>MySQL Workbench, MS Access</td>
+            <td>MySQL Workbench</td>
         </tr>
         <tr>
             <td>Version Control</td>
