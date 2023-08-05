@@ -8,13 +8,13 @@ header:
 {: .text-center}
 
 ## Career Objectives
-My name is Sayed Qaiser Ali. I am a **Oracle PPM analyst** at **TCS**,  I have gained valuable experience in managing projects and analyzing data within the Oracle ecosystem. However, my true passion lies in the field of **Data Science**, and I am eager to make a transition into this exciting and rapidly evolving field.
+I am Sayed Qaiser Ali. I am an **Oracle PPM analyst** at **TCS**,  I have gained valuable experience in managing projects and analyzing data within the Oracle ecosystem. However, my true passion lies in the field of **Data Science**, and I am eager to make a transition into this exciting and rapidly evolving field.
 
-My desire to become a Data Scientist stems from my fascination with extracting meaningful insights from complex data sets. I thrive on the challenge of uncovering patterns, trends, and correlations that can drive informed decision-making and lead to innovative solutions. I am driven by the potential to leverage data-driven approaches to solve real-world problems and make a positive impact.
+My desire to become an **AI Engineer** stems from my fascination with creating intelligent systems that can autonomously analyze data, learn from it, and make informed decisions. I am particularly fascinated with working on Language Models, exploring the power of Large Language Models (LLMs) like **GPT-3** and leveraging their capabilities to solve complex natural language understanding and generation tasks.
 
 One of the ways I actively contribute to the data science community is through my involvement in open source projects. I firmly believe in the power of collaboration and sharing knowledge. By participating in open source projects, I have had the opportunity to work alongside like-minded individuals, contribute to cutting-edge technologies, and continuously enhance my skills.
 
-Apart from coding and technical expertise, I also have a strong inclination towards creating documentation and sharing my insights through blog posts. I believe that clear and concise communication is essential in effectively conveying complex concepts. Through my documentation and blog writing, I strive to simplify complex topics, making them accessible to a wider audience. I enjoy distilling complex ideas into coherent narratives, empowering others to grasp new concepts and deepen their understanding.
+Apart from coding and technical expertise, I also have a strong inclination towards creating documentation and sharing my insights through blog posts. I believe that clear and concise communication is essential in effectively conveying complex concepts.
 
 [View My Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
