@@ -127,6 +127,12 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td><a href="#">Verify</a></td>
         </tr>
         <tr>
+            <td>Oracle Database SQL</td>
+            <td>1Z0-071</td>
+            <td>&#x2705;</td>
+            <td><a href="#">Verify</a></td>
+        </tr>
+        <tr>
             <td>Microsoft Azure Data Scientist Associate</td>
             <td>DP-100</td>
             <td>&#x2705;</td>
