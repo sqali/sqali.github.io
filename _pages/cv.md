@@ -39,16 +39,62 @@ recommending solutions to optimize project management processes
 ## 📝 Projects and Articles
 I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my [blog](https://sqali.github.io/posts/) and [portfolio](https://sqali.github.io/portfolio/) for more details.
 
-## 🤖 Skills
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, Keras, PyTorch, TensorFlow), C++, Linux
-- **Others:** 
-  - Database: MySQL
-  - Cloud Computing: Oracle, Azure, AWS
-  - Containerization Tools - Docker
-  - Visualization: Oracle Analytics Cloud, Matplotlib, Seaborn, Plotly
-  - Statistical Tools: Excel
-  - Version Control: Git, GitHub
-  - Graphics design: Figma, Canva
+<h2>🤖 Technical Skills</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Technical Skill</th>
+            <th>Skills</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Programming</td>
+            <td>Python (NumPy, Pandas, Scikit-learn, Keras, TensorFlow), C++</td>
+        </tr>
+        <tr>
+            <td>Database Management</td>
+            <td>MySQL</td>
+        </tr>
+        <tr>
+            <td>Cloud Computing</td>
+            <td>Oracle, AWS (Sagemaker), Azure (Azure ML)</td>
+        </tr>
+        <tr>
+            <td>ML Deployment Tools</td>
+            <td>Docker, MLflow, GitHub Actions</td>
+        </tr>
+        <tr>
+            <td>Data Visualization</td>
+            <td>Oracle Analytics Cloud, Streamlit</td>
+        </tr>
+        <tr>
+            <td>Data Management</td>
+            <td>MySQL Workbench, MS Access</td>
+        </tr>
+        <tr>
+            <td>Version Control</td>
+            <td>Git, GitHub</td>
+        </tr>
+        <tr>
+            <td>MS Office</td>
+            <td>Excel, Powerpoint, Word</td>
+        </tr>
+        <tr>
+            <td>Coding IDE</td>
+            <td>VS Code</td>
+        </tr>
+        <tr>
+            <td>GenAI tool</td>
+            <td>OpenAI (ChatGPT), Midjourney</td>
+        </tr>
+        <tr>
+            <td>Operating System</td>
+            <td>Windows, Linux</td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 <h2>📜 Certifications</h2>
