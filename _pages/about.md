@@ -8,9 +8,9 @@ header:
 {: .text-center}
 
 ## Career Objectives
-I am Sayed Qaiser Ali. I am an **Oracle PPM analyst** at **TCS**,  I have gained valuable experience in managing projects and analyzing data within the Oracle ecosystem. However, my true passion lies in the field of **Data Science**, and I am eager to make a transition into this exciting and rapidly evolving field.
+I am Sayed Qaiser Ali. I am an **Oracle PPM analyst** at **TCS**,  I have gained valuable experience in managing projects and analyzing data within the Oracle ecosystem. However, my true passion lies in the field of **Artificial Intelligence**, and I am eager to make a transition into this exciting and rapidly evolving field.
 
-My desire to become an **AI Engineer** stems from my fascination with creating intelligent systems that can autonomously analyze data, learn from it, and make informed decisions. I am particularly fascinated with working on Language Models, exploring the power of Large Language Models (LLMs) like **GPT-3** and leveraging their capabilities to solve complex natural language understanding and generation tasks.
+My desire to become an **AI Engineer** stems from my fascination with creating intelligent systems that can autonomously analyze data, learn from it, and make informed decisions. I am particularly fascinated with working on Language Models, exploring the power of Large Language Models (LLMs) like **GPT-3.5** and Computer Vision Models and leveraging their capabilities to solve complex natural language understanding, computer vision and generation tasks.
 
 One of the ways I actively contribute to the data science community is through my involvement in open source projects. I firmly believe in the power of collaboration and sharing knowledge. By participating in open source projects, I have had the opportunity to work alongside like-minded individuals, contribute to cutting-edge technologies, and continuously enhance my skills.
 
