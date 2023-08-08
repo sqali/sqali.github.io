@@ -33,6 +33,34 @@ The project revolves around Spoken Digit Recognition. The task involves reading 
 
 Using deep learning for Arabic-to-English translation, this project aims to bridge linguistic barriers by developing an advanced neural network model. Leveraging the power of artificial intelligence, the system will process complex language structures and nuances, enabling accurate and contextually relevant translations. The project seeks to enhance cross-cultural communication, fostering better understanding and accessibility between Arabic and English speakers in various domains.
 
+## 🔍🌐 Semantic Search Engine
+### Advanced search that understands context and meanings
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/Semantic-Search-Engine)
+
+A sophisticated search mechanism that goes beyond mere keyword matching. It taps into Natural Language Processing to understand the intent and context behind user queries. By leveraging knowledge graphs and entity recognition, the system ensures enhanced accuracy, offering search results that truly resonate with the user's needs and expectations.
+
+## 📷💬❓ Visual Question Answering
+### Answering questions using images through AI understanding
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/Visual-Question-Answering)
+
+Bridging the gap between visual content and language, this AI-driven system deciphers images or videos to answer user queries. By integrating computer vision to recognize patterns and objects with natural language processing techniques, it comprehensively understands and responds to questions about visual content, making image understanding more interactive and insightful.
+
+## 🏋️Smart Gym Assitant
+### AI-powered fitness support for personalized workouts and guidance
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/smart-gym-assistant)
+
+An innovative fusion of AI and computer vision, this assistant acts as a personal trainer for gym-goers. It monitors exercise routines in real-time, providing immediate feedback on form and posture. Using advanced tracking algorithms, it evaluates fitness progress, tailors workout recommendations, and ensures users get the most from their gym sessions.
+
+## 🎵🤖 Music Generation
+### AI-driven creation of original musical compositions and melodies
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/music-generation)
+
+Harnessing the power of neural networks, this project delves into the creation of original music compositions. Deep learning models, such as Recurrent Neural Networks (RNNs) and Transformers, are trained on vast music datasets, learning intricate patterns, rhythms, and harmonies. As the models generate new sequences, they emulate the styles of learned compositions, producing novel yet harmoniously structured tunes. The result is an AI maestro, capable of crafting melodies and orchestrating symphonies that resonate with human emotions.
+
 
 <!--**Selective Topics:**
 - [NumPy Implementations of CNN](https://github.com/sqali/CS231n-CV/blob/master/assignment2/cs231n/layers.py): Fully-connected Layer, Batchnorm, Layernorm, Dropout, Convolution, Maxpool.
