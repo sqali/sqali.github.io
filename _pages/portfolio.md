@@ -47,6 +47,8 @@ A sophisticated search mechanism that goes beyond mere keyword matching. It taps
 
 Bridging the gap between visual content and language, this AI-driven system deciphers images or videos to answer user queries. By integrating computer vision to recognize patterns and objects with natural language processing techniques, it comprehensively understands and responds to questions about visual content, making image understanding more interactive and insightful.
 
+<img src="https://sqali.github.io/assets/images/portfolio/visual_question_answering_diagram.png" width="580">{: .align-center}
+
 ## 🏋️Smart Gym Assitant
 ### AI-powered fitness support for personalized workouts and guidance
 
