@@ -63,6 +63,7 @@ An innovative fusion of AI and computer vision, this assistant acts as a persona
 
 Harnessing the power of neural networks, this project delves into the creation of original music compositions. Deep learning models, such as Recurrent Neural Networks (RNNs) and Transformers, are trained on vast music datasets, learning intricate patterns, rhythms, and harmonies. As the models generate new sequences, they emulate the styles of learned compositions, producing novel yet harmoniously structured tunes. The result is an AI maestro, capable of crafting melodies and orchestrating symphonies that resonate with human emotions.
 
+<img src="https://sqali.github.io/assets/images/portfolio/music_generation_deep_learning.png" width="580">{: .align-center}
 
 <!--**Selective Topics:**
 - [NumPy Implementations of CNN](https://github.com/sqali/CS231n-CV/blob/master/assignment2/cs231n/layers.py): Fully-connected Layer, Batchnorm, Layernorm, Dropout, Convolution, Maxpool.
