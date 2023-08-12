@@ -22,7 +22,7 @@ toc_icon: "bookmark"
 -	Collaborating with project teams to understand their business
 requirements and designing solutions that meet their needs
 -	Configuring and customizing Oracle PPM software to align
-with project management best practices and clientspecific requirements.
+with project management best practices and client-specific requirements.
 -	Training end-users on how to use the Oracle PPM software
 and providing ongoing support
 - Identifying areas for process improvement and
