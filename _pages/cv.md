@@ -19,6 +19,10 @@ toc_icon: "bookmark"
 
 *July 2021 - Present, Bhubaneswar, Odisha, India*
 
+My key responsibilities include:
+
+Oracle PPM
+
 -	Collaborating with project teams to understand their business
 requirements and designing solutions that meet their needs
 -	Configuring and customizing Oracle PPM software to align
@@ -27,6 +31,14 @@ with project management best practices and client-specific requirements.
 and providing ongoing support
 - Identifying areas for process improvement and
 recommending solutions to optimize project management processes
+
+Reporting & Analysis using Oracle Database SQL
+
+- Data-Driven Insights: Leveraging my skills in Oracle Database SQL, I transform raw data into actionable insights
+- Tailored Reporting Solutions: I collaborate with colleagues to understand reporting requirements and design customized reporting solutions that cater to specific business needs
+- Cross-Functional Collaboration: Working closely with the reporting team, I synergize my Oracle PPM expertise with database querying capabilities
+
+
 
 
 ## 🎓 Education
