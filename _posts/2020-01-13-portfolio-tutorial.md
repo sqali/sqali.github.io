@@ -3,6 +3,7 @@ title: "Create a Minimalism GitHub Page for Your Data Science Portfolio in 30 Mi
 date: 2020-01-13
 categories:
   - posts
+published: false
 tags:
   - data science
   - tutorial

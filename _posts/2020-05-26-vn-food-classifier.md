@@ -3,6 +3,7 @@ title: "Visual Recognition for Vietnamese Foods"
 date: 2020-05-26
 categories:
   - posts
+published: false
 tags:
   - cv
   - deep learning
