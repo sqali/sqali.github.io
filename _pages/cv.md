@@ -44,7 +44,6 @@ recommending solutions to optimize project management processes
 ## 🎓 Education
 ### National Institute of Science & Technology
 **Bachelor of Engineering (Mechanical), 2021**
-- CGPA: 8.2/10
 - Coursework: Fluid Mechanics, Thermodynamics, Statistics, C Programming, Predictive Analytics with Python (Machine Learning), Database Management (SQL)
 
 
@@ -71,6 +70,10 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         <tr>
             <td>Cloud Computing</td>
             <td>Oracle, AWS (Sagemaker), Azure (Azure ML)</td>
+        </tr>
+        <tr>
+            <td>Infrastrucuture Management</td>
+            <td>Terraform</td>
         </tr>
         <tr>
             <td>ML Deployment Tools</td>
