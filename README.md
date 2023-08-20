@@ -16,38 +16,30 @@ The heart of the portfolio showcases:
 
 ## 🛠 Features to be Implemented
 
-### 1. **Sentiment Analysis** 🧠:
-   - Dive into the sentiments of comments or discussions on pull requests or issues to understand community vibes.
-
-### 2. **Automated Project Summaries** 📝:
+### 1. **Automated Project Summaries** 📝:
    - Leverage NLP to craft automatic summaries or descriptions of repositories.
 
-### 3. **Chatbot Interface** 💬:
+### 2. **Chatbot Interface** 💬:
    - A friendly chatbot ready to answer queries about projects, contributions, and more.
 
-### 4. **Automated Knowledge Graph** 🌐:
+### 3. **Automated Knowledge Graph** 🌐:
    - Navigate through a rich graph detailing projects, contributions, technologies, and collaborations.
 
-### 5. **Dynamic Skill Proficiency Estimator** 📈:
+### 4. **Dynamic Skill Proficiency Estimator** 📈:
    - Machine learning-driven insights into proficiency levels across different technologies.
 
-### 6. **Automated Dependency Updater** 🔄:
+### 5. **Automated Dependency Updater** 🔄:
    - An alert system for dependency checks, ensuring everything is up-to-date and secure.
 
-### 7. **Codebase Trend Analysis** 📊:
+### 6. **Codebase Trend Analysis** 📊:
    - Track and visualize codebase evolutions over time.
 
-### 8. **Repository Health Dashboard** ❤️:
-   - A health check dashboard with key metrics for each repository.
-
-### 9. **Automated Code Review Assistant** 👓:
-   - Intelligent code reviews offering insights and improvement suggestions.
-
-### 10. **API Usage Analytics** 📡:
+### 7. **API Usage Analytics** 📡:
    - Monitor the traction and impact of developed APIs or libraries.
+
 
 ---
 
 ## 🤝 Collaboration
 
-I'm **open-sourcing** this project to embrace collaboration and collective enhancement. If the spirit of collaboration ignites you, please dive into the [CONTRIBUTING.md](./CONTRIBUTING.md) guide and feel free to initiate discussions or contribute directly!
+I'm **open-sourcing** this project to embrace collaboration and collective enhancement. If the spirit of collaboration ignites you, please dive into the [CONTRIBUTING.md](./CONTRIBUTING.md) guide, and feel free to initiate discussions or contribute directly!
