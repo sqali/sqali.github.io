@@ -61,11 +61,11 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python (NumPy, Pandas, Scikit-learn, Keras, TensorFlow), C++</td>
+            <td>Python, C++</td>
         </tr>
         <tr>
             <td>Database Management</td>
-            <td>MySQL</td>
+            <td>Oracle SQL, MySQL</td>
         </tr>
         <tr>
             <td>Cloud Computing</td>
