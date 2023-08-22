@@ -80,8 +80,8 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>Docker, MLflow, GitHub Actions</td>
         </tr>
         <tr>
-            <td>Data Visualization</td>
-            <td>Oracle Analytics Cloud, Streamlit</td>
+            <td>Machine Learning Web App</td>
+            <td>Gradio</td>
         </tr>
         <tr>
             <td>Data Management</td>
