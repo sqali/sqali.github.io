@@ -88,6 +88,10 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>MySQL Workbench</td>
         </tr>
         <tr>
+            <td>Analytics Tool</td>
+            <td>Oracle Analytics Cloud</td>
+        </tr>
+        <tr>
             <td>Version Control</td>
             <td>Git, GitHub</td>
         </tr>
