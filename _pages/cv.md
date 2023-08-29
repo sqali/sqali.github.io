@@ -88,10 +88,6 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>MySQL Workbench</td>
         </tr>
         <tr>
-            <td>Analytics Tool</td>
-            <td>Oracle Analytics Cloud</td>
-        </tr>
-        <tr>
             <td>Version Control</td>
             <td>Git, GitHub</td>
         </tr>
@@ -138,12 +134,6 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>1Z0-1110-23</td>
             <td>&#x2705;</td>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099">Verify</a></td>
-        </tr>
-        <tr>
-            <td>Oracle Cloud Infrastructure Enterprise Analytics Professional</td>
-            <td>1Z0-1041-23</td>
-            <td>&#x2705;</td>
-            <td><a href="#">Verify</a></td>
         </tr>
         <tr>
             <td>Oracle Database SQL</td>
