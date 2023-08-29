@@ -8,13 +8,14 @@ header:
 {: .text-center}
 
 ## Career Objectives
-I am Sayed Qaiser Ali. I am an **Oracle PPM analyst** at **TCS**,  I have gained valuable experience in managing projects and analyzing data within the Oracle ecosystem. However, my true passion lies in the field of **Artificial Intelligence**, and I am eager to make a transition into this exciting and rapidly evolving field.
+### Work Experience: Reporting and SQL
+👨‍💼 As an **Oracle PPM Analyst** at **TCS**, I've honed my project management skills and data analysis prowess within the Oracle ecosystem. 📊 Managing projects and diving into data using **Oracle Database SQL** 🛠️ has enriched my ability to extract insights and drive informed decisions. 💡
 
-My desire to become an **AI Engineer** stems from my fascination with creating intelligent systems that can autonomously analyze data, learn from it, and make informed decisions. I am particularly fascinated with working on Language Models, exploring the power of Large Language Models (LLMs) like **GPT-3.5** and Computer Vision Models and leveraging their capabilities to solve complex natural language understanding, computer vision and generation tasks.
+### Interests: Transitioning to AI Engineering
+🚀 My heart races for the realm of **Artificial Intelligence**, and my ambition is to metamorphose into an **AI Engineer**. 🤖 The allure of crafting intelligent systems that autonomously decode data, make perceptive choices, and excel in natural language understanding 🗣️ and computer vision captivates me. I'm drawn to the might of large language models like **GPT-3.5** 🧠 and the prowess of computer vision models. 📸
 
-One of the ways I actively contribute to the data science community is through my involvement in open source projects. I firmly believe in the power of collaboration and sharing knowledge. By participating in open source projects, I have had the opportunity to work alongside like-minded individuals, contribute to cutting-edge technologies, and continuously enhance my skills.
-
-Apart from coding and technical expertise, I also have a strong inclination towards creating documentation and sharing my insights through blog posts. I believe that clear and concise communication is essential in effectively conveying complex concepts.
+### Contributions and Communication: Open Source and Blogging
+🌐 Embracing the power of collaboration, I contribute to open source projects 🤝 and revel in the camaraderie of visionary minds. I channel my insights through engaging blog posts 📝, ensuring that complex concepts are conveyed with utmost clarity. Effective communication 📢 stands as my pillar for sharing knowledge and igniting ideas.
 
 [View My Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
