@@ -61,7 +61,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python, C++</td>
+            <td>Python, Golang, C++</td>
         </tr>
         <tr>
             <td>Database Management</td>
@@ -69,7 +69,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         <tr>
             <td>Cloud Computing</td>
-            <td>Oracle, AWS (Sagemaker), Azure (Azure ML)</td>
+            <td>Oracle, Azure</td>
         </tr>
         <tr>
             <td>Infrastrucuture Management</td>
@@ -123,12 +123,12 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <!--<tr>
             <td>Oracle Cloud Infrastructure Architect Associate</td>
             <td>1Z0-1072-23</td>
             <td>&#x2705;</td>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306">Verify</a></td>
-        </tr>
+        </tr>-->
         <tr>
             <td>Oracle Cloud Infrastructure Data Science Professional</td>
             <td>1Z0-1110-23</td>
@@ -142,13 +142,19 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td><a href="#">Verify</a></td>
         </tr>
         <tr>
-            <td>Microsoft Azure Data Scientist Associate</td>
-            <td>DP-100</td>
+            <td>Microsoft Azure DevOps Expert</td>
+            <td>AZ-400</td>
             <td>&#x2705;</td>
             <td><a href="#">Verify</a></td>
         </tr>
         <tr>
             <td>GitHub Actions</td>
+            <td></td>
+            <td>&#x2705;</td>
+            <td><a href="#">Verify</a></td>
+        </tr>
+        <tr>
+            <td>Terraform Associate</td>
             <td></td>
             <td>&#x2705;</td>
             <td><a href="#">Verify</a></td>
