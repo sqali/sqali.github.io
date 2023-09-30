@@ -61,7 +61,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python, Golang, C++</td>
+            <td>Python, C++, Golang</td>
         </tr>
         <tr>
             <td>Database Management</td>
@@ -69,23 +69,27 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         <tr>
             <td>Cloud Computing</td>
-            <td>Oracle, Azure</td>
+            <td>Oracle, AWS, Azure</td>
         </tr>
         <tr>
             <td>Infrastrucuture Management</td>
             <td>Terraform</td>
         </tr>
         <tr>
-            <td>ML Deployment Tools</td>
-            <td>Docker, MLflow, GitHub Actions</td>
+            <td>Containerization</td>
+            <td>Docker</td>
         </tr>
         <tr>
-            <td>Machine Learning Web App</td>
-            <td>Gradio</td>
+            <td>Workflow Orchestration</td>
+            <td>Apache Airflow</td>
         </tr>
         <tr>
-            <td>Data Management</td>
-            <td>MySQL Workbench</td>
+            <td>CI/CD</td>
+            <td>GitHub Actions</td>
+        </tr>
+        <tr>
+            <td>MLOps</td>
+            <td>MLFlow</td>
         </tr>
         <tr>
             <td>Version Control</td>
@@ -136,27 +140,33 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099">Verify</a></td>
         </tr>
         <tr>
-            <td>Oracle Database SQL</td>
-            <td>1Z0-071</td>
-            <td>&#x2705;</td>
+            <td>AWS Developer Associate</td>
+            <td>DVA-C02</td>
+            <td></td>
             <td><a href="#">Verify</a></td>
         </tr>
         <tr>
-            <td>Microsoft Azure DevOps Expert</td>
-            <td>AZ-400</td>
-            <td>&#x2705;</td>
+            <td>Terraform Associate</td>
+            <td>003</td>
+            <td></td>
+            <td><a href="#">Verify</a></td>
+        </tr>
+        <tr>
+            <td>GitHub Admin</td>
+            <td></td>
+            <td></td>
             <td><a href="#">Verify</a></td>
         </tr>
         <tr>
             <td>GitHub Actions</td>
             <td></td>
-            <td>&#x2705;</td>
+            <td></td>
             <td><a href="#">Verify</a></td>
         </tr>
         <tr>
-            <td>Terraform Associate</td>
+            <td>GitHub Advanced Security</td>
             <td></td>
-            <td>&#x2705;</td>
+            <td></td>
             <td><a href="#">Verify</a></td>
         </tr>
     </tbody>
