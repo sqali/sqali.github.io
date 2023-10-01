@@ -47,8 +47,8 @@ recommending solutions to optimize project management processes
 - Coursework: Fluid Mechanics, Thermodynamics, Statistics, C Programming, Predictive Analytics with Python (Machine Learning), Database Management (SQL)
 
 
-## 📝 Projects and Articles
-I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my [blog](https://sqali.github.io/posts/) and [portfolio](https://sqali.github.io/portfolio/) for more details.
+<!--## 📝 Projects and Articles
+I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my [blog](https://sqali.github.io/posts/) and [portfolio](https://sqali.github.io/portfolio/) for more details.-->
 
 <h2>🤖 Technical Skills</h2>
 <table>
