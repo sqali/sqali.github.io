@@ -19,8 +19,9 @@ header:
 
 [View My Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
-
+<!--
 I love to read AI blogs, watch YouTube tutorials and listen to AI podcasts. I am learning so much from the AI community, where knowledge is shared to challenge the boundary of computer intelligence.
 
 [Read My Blog Posts](https://sqali.github.io/posts/){: .btn .btn--info}
 {: .text-center}
+-->
