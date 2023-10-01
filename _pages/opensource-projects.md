@@ -25,6 +25,8 @@ toc_icon: "bookmark"
 
 ## ![GitHub Avatar](https://avatars.githubusercontent.com/u/1728152?s=40&v=4) Nvidia
 
+## ![Airflow Icon](https://avatars.githubusercontent.com/u/47359?s=48&v=4) Apache Airflow
+
 ## ![GitHub Avatar](https://avatars.githubusercontent.com/u/21206976?s=48&v=4) Pandas
 
 - [Updated documentation in ecosystem.md by replacing deprecated qgrid with modin-spreadsheet](https://github.com/pandas-dev/pandas/pull/53980)
