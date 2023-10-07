@@ -1,7 +1,17 @@
-.custom-form {
-    background-color: white;
+/* 1. Define the background color for the button (even when not being hovered over) */
+.custom-form button.btn {
+    background-color: #3b9cba;  /* Same color as .btn--info */
+    color: white;  /* Text color for better contrast */
+    border: none;  /* Remove any default borders */
 }
 
-.custom-form input, .custom-form textarea, .custom-form button {
-    background-color: white;
+/* 2. Add black borders to the email input and message textarea */
+.custom-form input, .custom-form textarea {
+    border: 1px solid black;
+}
+
+/* 3. Adjust the label alignment */
+.custom-form label {
+    display: block;
+    margin-bottom: 10px;
 }
