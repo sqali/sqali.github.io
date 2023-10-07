@@ -24,17 +24,18 @@ Please fill out the form below if you'd like to get in touch:
 <form
   action="https://formspree.io/f/xvojvnpz"
   method="POST"
+  style="background-color: white; padding: 15px; border-radius: 5px;"
 >
   <label>
-    Your email:
-    <input type="email" name="email" style="background-color: white;">
+    <b>Your email</b>:
+    <input type="email" name="email">
   </label>
   <label>
-    Your message:
-    <textarea name="message" style="background-color: white;"></textarea>
+    <b>Your message:</b>
+    <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit" class="btn btn--info" style="background-color: white;">Submit</button>
+  <button type="submit" class="btn btn--info"">Submit</button>
 </form>
 
 <!--[View My Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info}
