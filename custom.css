@@ -21,9 +21,16 @@
     background-color: white !important;
 }
 
-/* 1. Define the background color for the button (even when not being hovered over) */
+/* Explicitly set the background color for the button */
 .custom-form button.btn {
-    background-color: #3b9cba;  /* Same color as .btn--info */
-    color: white;  /* Text color for better contrast */
-    border: none;  /* Remove any default borders */
+    background-color: #3b9cba !important;  /* Same color as .btn--info */
+    color: white !important;  /* Text color for better contrast */
+    border: none !important;  /* Remove any default borders */
+}
+
+/* Ensure the button retains its color on hover and focus */
+.custom-form button.btn:hover, 
+.custom-form button.btn:focus {
+    background-color: #3b9cba !important;
+    color: white !important;
 }
