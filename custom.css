@@ -21,22 +21,24 @@
     background-color: white !important;
 }
 
-/* Design the Submit button */
+/* Explicitly set the appearance and size for the Submit button */
 .custom-form button[type="submit"] {
-    background-color: black;  /* Black background */
-    color: white;             /* White text */
-    padding: 12px 24px;      /* Padding for size */
-    border: none;            /* No border */
-    cursor: pointer;         /* Hand cursor on hover */
-    transition: 0.3s;        /* Smooth transition for hover effect */
-    display: block;          /* Block element to take full width */
-    width: 100%;             /* Full width */
-    border-radius: 5px;      /* Rounded corners */
+    background-color: black !important; /* Black background */
+    color: white !important; /* White text */
+    padding: 12px 24px !important; /* Padding for size */
+    border: none !important; /* No border */
+    cursor: pointer !important; /* Hand cursor on hover */
+    transition: 0.3s !important; /* Smooth transition for hover effect */
+    display: block !important; /* Block element to take full width */
+    width: 100% !important; /* Full width */
+    border-radius: 5px !important; /* Rounded corners */
+    font-size: 1em !important; /* Default font size */
+    text-align: center !important; /* Center the button text */
 }
 
 /* Hover effect for the Submit button */
 .custom-form button[type="submit"]:hover {
-    background-color: #333;  /* Slightly lighter black on hover */
+    background-color: #333 !important; /* Slightly lighter black on hover */
 }
 
 /* Reset margins and padding for the form */
