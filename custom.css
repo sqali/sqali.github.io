@@ -10,14 +10,20 @@
     border: 1px solid black;
 }
 
-/* Explicitly set background colors for form elements */
-.custom-form input, .custom-form textarea, .custom-form button {
-    background-color: white;
+/* Ensure the form has a white background */
+.custom-form {
+    background-color: white !important;
 }
 
-/* 3. Adjust the label alignment */
-.custom-form label {
-    display: block;
-    margin: 0;  /* Remove default margins */
-    padding: 0; /* Remove default padding */
+/* Ensure all form elements and their focus/hover states have a white background */
+.custom-form input, 
+.custom-form textarea, 
+.custom-form button,
+.custom-form input:focus, 
+.custom-form textarea:focus, 
+.custom-form button:focus,
+.custom-form input:hover, 
+.custom-form textarea:hover, 
+.custom-form button:hover {
+    background-color: white !important;
 }
