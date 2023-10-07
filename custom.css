@@ -1,0 +1,7 @@
+.custom-form {
+    background-color: white;
+}
+
+.custom-form input, .custom-form textarea, .custom-form button {
+    background-color: white;
+}

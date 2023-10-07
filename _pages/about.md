@@ -4,6 +4,9 @@ permalink: /about/
 header:
 ---
 
+<link rel="stylesheet" href="/custom.css">
+
+
 [Resume](https://sqali.github.io/cv/){: .btn .btn--info} [Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/sayed-qaiser-ali-916b181ab/){: .btn .btn--info}
 {: .text-center}
 
@@ -22,6 +25,7 @@ header:
 
 Please fill out the form below if you'd like to get in touch:
 <form
+  class="custom-form"
   action="https://formspree.io/f/xvojvnpz"
   method="POST"
 >
