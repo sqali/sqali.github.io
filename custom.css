@@ -1,6 +1,6 @@
-/* 2. Add black borders to the email input and message textarea */
+/* 2. Add light grey borders to the email input and message textarea */
 .custom-form input, .custom-form textarea {
-    border: 1px solid #d3d3d3;;
+    border: 1px solid #d3d3d3;
 }
 
 /* Ensure the form has a white background */
@@ -21,20 +21,22 @@
     background-color: white !important;
 }
 
-/* Explicitly set the background color for the button */
-.custom-form button.btn {
-    background-color: #3b9cba !important;  /* Same color as .btn--info */
-    color: white !important;  /* Text color for better contrast */
-    border: none !important;  /* Remove any default borders */
+/* Design the Submit button */
+.custom-form button[type="submit"] {
+    background-color: black;  /* Black background */
+    color: white;             /* White text */
+    padding: 12px 24px;      /* Padding for size */
+    border: none;            /* No border */
+    cursor: pointer;         /* Hand cursor on hover */
+    transition: 0.3s;        /* Smooth transition for hover effect */
+    display: block;          /* Block element to take full width */
+    width: 100%;             /* Full width */
 }
 
-/* Ensure the button retains its color on hover and focus */
-.custom-form button.btn:hover, 
-.custom-form button.btn:focus {
-    background-color: #3b9cba !important;
-    color: white !important;
+/* Hover effect for the Submit button */
+.custom-form button[type="submit"]:hover {
+    background-color: #333;  /* Slightly lighter black on hover */
 }
-
 
 /* Reset margins and padding */
 .custom-form input, 
@@ -48,20 +50,4 @@
 .custom-form input, 
 .custom-form textarea {
     width: 100%;
-}
-
-/* Reset the button */
-.custom-form button[type="submit"].btn {
-    all: unset; /* This attempts to remove all styles */
-    appearance: none; /* This can help remove browser-specific button styles */
-    -webkit-appearance: none; /* For browsers that use the webkit engine */
-    -moz-appearance: none; /* For Firefox */
-    
-    /* Basic button styling */
-    padding: 15px 30px;
-    font-size: 1.2em;
-    background-color: #3b9cba; 
-    color: white;
-    border: none;
-    cursor: pointer; /* To indicate it's clickable */
 }
