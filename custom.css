@@ -25,7 +25,7 @@
 .custom-form button[type="submit"] {
     background-color: black !important;  /* Black background */
     color: white !important;             /* White text */
-    padding: 12px 24px !important;      /* Padding for size */
+    padding: 6px 12px !important;      /* Padding for size */
     border: none !important;            /* No border */
     cursor: pointer !important;         /* Hand cursor on hover */
     display: block !important;          /* Block element */
