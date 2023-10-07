@@ -38,7 +38,7 @@ Please fill out the form below if you'd like to get in touch:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Submit</button>
+  <button type="submit"><b>Submit</b></button>
 </form>
 
 <!--[View My Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info}
