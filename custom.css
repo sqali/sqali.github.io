@@ -35,8 +35,8 @@
     color: white !important;
 }
 
-
-/* Reset margins and padding */
+/*
+/* Reset margins and padding 
 .custom-form input, 
 .custom-form textarea, 
 .custom-form label {
@@ -48,4 +48,5 @@
 .custom-form input, 
 .custom-form textarea {
     width: 100%;
-}*/
+}
+*/
