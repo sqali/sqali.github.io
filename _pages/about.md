@@ -4,8 +4,9 @@ permalink: /about/
 header:
 ---
 
-[Resume](https://sqali.github.io/cv/){: .btn .btn--info} [Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/sayed-qaiser-ali-916b181ab/){: .btn .btn--info}
-{: .text-center}
+[Resume](https://sqali.github.io/cv/){: .btn .btn--info} {: .text-center}
+
+<!--[Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/sayed-qaiser-ali-916b181ab/){: .btn .btn--info}-->
 
 ## Career Objectives
 ### Work Experience: Reporting and SQL
@@ -24,7 +25,7 @@ Please fill out the form below if you'd like to get in touch:
 <form
   action="https://formspree.io/f/xvojvnpz"
   method="POST"
-  style="background-color: white; padding: 15px; border-radius: 5px;"
+  style="background-color: white;"
 >
   <label>
     <b>Your email</b>:
