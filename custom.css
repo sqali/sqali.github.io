@@ -35,6 +35,7 @@
     color: white !important;
 }
 
+
 /* Reset margins and padding */
 .custom-form, 
 .custom-form input, 
@@ -49,4 +50,13 @@
 .custom-form input, 
 .custom-form textarea {
     width: 100%;
+}
+
+/* Set dimensions and styling for the Submit button */
+.custom-form button.btn {
+    width: auto; /* Let the width adjust based on content and padding */
+    height: auto; /* Let the height adjust based on content and padding */
+    padding: 10px 20px; /* 10px top/bottom, 20px left/right */
+    font-size: 1em; /* Adjust as needed for text size */
+    display: inline-block; /* Ensure button flows inline */
 }
