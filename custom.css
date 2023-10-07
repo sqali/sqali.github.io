@@ -34,3 +34,9 @@
     background-color: #3b9cba !important;
     color: white !important;
 }
+
+/* Adjust the margins of the form elements for proper alignment */
+.custom-form input, .custom-form textarea, .custom-form button, .custom-form label {
+    margin-left: 0;  /* Remove left margin for alignment */
+    margin-right: 0; /* Remove right margin for alignment */
+}
