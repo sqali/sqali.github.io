@@ -27,14 +27,14 @@ Please fill out the form below if you'd like to get in touch:
 >
   <label>
     Your email:
-    <input type="email" name="email">
+    <input type="email" name="email" style="background-color: white;">
   </label>
   <label>
     Your message:
-    <textarea name="message"></textarea>
+    <textarea name="message" style="background-color: white;"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit" class="btn btn--info">Submit</button>
+  <button type="submit" class="btn btn--info" style="background-color: white;">Submit</button>
 </form>
 
 <!--[View My Portfolio](https://sqali.github.io/portfolio/){: .btn .btn--info}
