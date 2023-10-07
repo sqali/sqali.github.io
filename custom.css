@@ -23,7 +23,7 @@
 
 /* Explicit styling for the Submit button */
 .custom-form button[type="submit"] {
-    background-color: #3BBBC8 !important;  /* Black background */
+    background-color: #3BACC8 !important;  /* Black background */
     color: white !important;             /* White text */
     padding: 6px 12px !important;      /* Padding for size */
     border: none !important;            /* No border */
@@ -39,7 +39,7 @@
 
 /* Hover effect for the Submit button */
 .custom-form button[type="submit"]:hover {
-    background-color: #3BBBC8 !important;  /* Slightly lighter black on hover */
+    background-color: #3BACC8 !important;  /* Slightly lighter black on hover */
 }
 
 /* Reset margins and padding for the form */
