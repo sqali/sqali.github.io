@@ -23,7 +23,7 @@
 
 /* Explicit styling for the Submit button */
 .custom-form button[type="submit"] {
-    background-color: black !important;  /* Black background */
+    background-color: #3BBBC8 !important;  /* Black background */
     color: white !important;             /* White text */
     padding: 6px 12px !important;      /* Padding for size */
     border: none !important;            /* No border */
