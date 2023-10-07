@@ -29,7 +29,7 @@
     border: none !important;            /* No border */
     cursor: pointer !important;         /* Hand cursor on hover */
     display: block !important;          /* Block element */
-    width: 100% !important;             /* Full width */
+    width: 50% !important;             /* Full width */
     border-radius: 5px !important;      /* Rounded corners */
     font-size: 1em !important;          /* Font size */
     text-align: center !important;      /* Center the button text */
