@@ -1,6 +1,6 @@
 /* 2. Add black borders to the email input and message textarea */
 .custom-form input, .custom-form textarea {
-    border: 1px solid black;
+    border: 1px solid #d3d3d3;;
 }
 
 /* Ensure the form has a white background */
@@ -35,8 +35,18 @@
     color: white !important;
 }
 
-/* Adjust the margins of the form elements for proper alignment */
-.custom-form input, .custom-form textarea, .custom-form button, .custom-form label {
-    margin-left: 0;  /* Remove left margin for alignment */
-    margin-right: 0; /* Remove right margin for alignment */
+/* Reset margins and padding */
+.custom-form, 
+.custom-form input, 
+.custom-form textarea, 
+.custom-form button, 
+.custom-form label {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set widths */
+.custom-form input, 
+.custom-form textarea {
+    width: 100%;
 }
