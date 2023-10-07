@@ -52,11 +52,14 @@
     width: 100%;
 }
 
-/* Set dimensions and styling for the Submit button */
-.custom-form button.btn {
-    width: auto; /* Let the width adjust based on content and padding */
-    height: auto; /* Let the height adjust based on content and padding */
-    padding: 10px 20px; /* 10px top/bottom, 20px left/right */
-    font-size: 1em; /* Adjust as needed for text size */
-    display: inline-block; /* Ensure button flows inline */
+/* Explicitly set the appearance and size for the Submit button */
+.custom-form button[type="submit"].btn {
+    width: auto !important;
+    height: auto !important;
+    padding: 10px 20px !important;
+    font-size: 1em !important;
+    display: inline-block !important;
+    line-height: 1.5 !important;  /* Adjust line height for better vertical alignment */
+    min-width: 100px !important;  /* Ensure the button has a minimum width */
+    text-align: center !important; /* Center the button text */
 }
