@@ -31,6 +31,7 @@
     transition: 0.3s;        /* Smooth transition for hover effect */
     display: block;          /* Block element to take full width */
     width: 100%;             /* Full width */
+    border-radius: 5px;      /* Rounded corners */
 }
 
 /* Hover effect for the Submit button */
@@ -38,10 +39,8 @@
     background-color: #333;  /* Slightly lighter black on hover */
 }
 
-/* Reset margins and padding */
-.custom-form input, 
-.custom-form textarea, 
-.custom-form label {
+/* Reset margins and padding for the form */
+.custom-form {
     margin: 0;
     padding: 0;
 }
@@ -50,4 +49,9 @@
 .custom-form input, 
 .custom-form textarea {
     width: 100%;
+}
+
+/* Adjust the form's indentation */
+.custom-form {
+    padding-left: 0;
 }
