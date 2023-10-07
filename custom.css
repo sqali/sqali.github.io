@@ -10,8 +10,14 @@
     border: 1px solid black;
 }
 
+/* Explicitly set background colors for form elements */
+.custom-form input, .custom-form textarea, .custom-form button {
+    background-color: white;
+}
+
 /* 3. Adjust the label alignment */
 .custom-form label {
     display: block;
-    margin-bottom: 10px;
+    margin: 0;  /* Remove default margins */
+    padding: 0; /* Remove default padding */
 }
