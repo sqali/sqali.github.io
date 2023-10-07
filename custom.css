@@ -35,8 +35,8 @@
     color: white !important;
 }
 
-/*
-/* Reset margins and padding 
+
+/* Reset margins and padding */
 .custom-form input, 
 .custom-form textarea, 
 .custom-form label {
@@ -44,9 +44,24 @@
     padding: 0;
 }
 
-/* Set widths 
+/* Set widths */
 .custom-form input, 
 .custom-form textarea {
     width: 100%;
 }
-*/
+
+/* Reset the button */
+.custom-form button[type="submit"].btn {
+    all: unset; /* This attempts to remove all styles */
+    appearance: none; /* This can help remove browser-specific button styles */
+    -webkit-appearance: none; /* For browsers that use the webkit engine */
+    -moz-appearance: none; /* For Firefox */
+    
+    /* Basic button styling */
+    padding: 15px 30px;
+    font-size: 1.2em;
+    background-color: #3b9cba; 
+    color: white;
+    border: none;
+    cursor: pointer; /* To indicate it's clickable */
+}
