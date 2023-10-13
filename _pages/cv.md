@@ -152,12 +152,6 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td><a href="#">Verify</a></td>
         </tr>
         <tr>
-            <td>GitHub Admin</td>
-            <td></td>
-            <td></td>
-            <td><a href="#">Verify</a></td>
-        </tr>
-        <tr>
             <td>GitHub Actions</td>
             <td></td>
             <td></td>
