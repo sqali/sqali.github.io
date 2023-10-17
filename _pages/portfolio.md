@@ -18,7 +18,7 @@ integrating the NYC Permitted Event Information dataset for real-time event quer
 Employ Machine Learning (ML) for personalized event recommendations, and establish
 Continuous Integration/Continuous Deployment (CI/CD) pipelines for scalable deployment and iterative enhancements
 
-<img src="https://sqali.github.io/assets/images/portfolio/google-chatbot-project-architecture.webp" width="580">{: .align-center}
+<img src="https://sqali.github.io/assets/images/portfolio/google-chatbot-project-architecture.png" width="580">{: .align-center}
 
 ## 🔍 Predictive Maintenance using Azure ML
 
@@ -27,7 +27,7 @@ Continuous Integration/Continuous Deployment (CI/CD) pipelines for scalable depl
 - Implement a Predictive Maintenance system using Azure Machine Learning (ML) with historical operational and maintenance data for accurate machinery maintenance forecasting
 - Leverage DevOps practices, including Docker containerization and GitHub Actions, for automated deployment workflows, facilitating real-time monitoring and proactive maintenance strategies
 
-<img src="https://sqali.github.io/assets/images/portfolio/train-machine-learning-on-premises-data-at-edge-architecture.svg" width="580">{: .align-center}
+<img src="https://sqali.github.io/assets/images/portfolio/train-machine-learning-on-premises-data-at-edge-architecture.png" width="580">{: .align-center}
 
 <!--
 ## 🔍🌐 Semantic Search Engine
