@@ -7,7 +7,7 @@ toc_icon: "bookmark"
 ---
 [Download Resume](https://sqali.github.io/files/resume.pdf){: .btn .btn--info}
 
-*Updated: 02/08/2023*
+*Updated: 17/08/2023*
 
 ## 📧 Contact
 - Email: [qaiserali45@gmail.com]()
@@ -32,14 +32,6 @@ and providing ongoing support
 - Identifying areas for process improvement and
 recommending solutions to optimize project management processes
 
-**Reporting & Analysis using Oracle Database SQL**
-
-- Data-Driven Insights: Leveraging my skills in Oracle Database SQL, I transform raw data into actionable insights
-- Tailored Reporting Solutions: I collaborate with colleagues to understand reporting requirements and design customized reporting solutions that cater to specific business needs
-- Cross-Functional Collaboration: Working closely with the reporting team, I synergize my Oracle PPM expertise with database querying capabilities
-
-
-
 
 ## 🎓 Education
 ### National Institute of Science & Technology
@@ -61,35 +53,23 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python, C++, Golang</td>
+            <td>Python</td>
         </tr>
         <tr>
             <td>Database Management</td>
-            <td>Oracle SQL, MySQL</td>
+            <td>MySQL</td>
         </tr>
         <tr>
             <td>Cloud Computing</td>
-            <td>Oracle, AWS, Azure</td>
-        </tr>
-        <tr>
-            <td>Infrastrucuture Management</td>
-            <td>Terraform</td>
+            <td>Azure</td>
         </tr>
         <tr>
             <td>Containerization</td>
             <td>Docker</td>
         </tr>
         <tr>
-            <td>Workflow Orchestration</td>
-            <td>Apache Airflow</td>
-        </tr>
-        <tr>
             <td>CI/CD</td>
             <td>GitHub Actions</td>
-        </tr>
-        <tr>
-            <td>MLOps</td>
-            <td>MLFlow</td>
         </tr>
         <tr>
             <td>Version Control</td>
@@ -115,7 +95,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
 </table>
 
 
-
+<!--
 <h2>📜 Certifications</h2>
 <table>
     <thead>
@@ -132,7 +112,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>1Z0-1072-23</td>
             <td>&#x2705;</td>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306">Verify</a></td>
-        </tr>-->
+        </tr>
         <tr>
             <td>Oracle Cloud Infrastructure Data Science Professional</td>
             <td>1Z0-1110-23</td>
@@ -165,4 +145,4 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
     </tbody>
 </table>
-
+-->

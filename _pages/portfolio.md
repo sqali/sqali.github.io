@@ -6,26 +6,30 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 
 ---
-*Updated: 01/08/2023*
+*Updated: 17/10/2023*
 
-## 🤖 Computer Vision
-### Document classification using Convolutional Neural Networks
+## 🤖 Google Chatbot for Event Management
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/Applied-AI-Assignments/tree/main/Document%20Classification%20Using%20CNN)
 
-This project entails the development of a Convolutional Neural Network (CNN) for the task of document classification. I worked with a dataset of text documents, utilizing the filenames for class label extraction. The challenge involves preprocessing the text data, designing and training a CNN model for classification, and evaluating its performance on this multi-class text categorization task.
+- Utilize Google Dialogflow for Natural Language Processing (NLP) to develop an intuitive chatbot,
+integrating the NYC Permitted Event Information dataset for real-time event querying and
+- management
+Employ Machine Learning (ML) for personalized event recommendations, and establish
+Continuous Integration/Continuous Deployment (CI/CD) pipelines for scalable deployment and iterative enhancements
 
 <img src="https://sqali.github.io/assets/images/portfolio/1_BEaZkpZJ4mFR-i2U4VOXsA.png" width="580">{: .align-center}
 
-## 🎵 Automatic Speech Recognition
-### Spoken Digit Recognition using LSTM
+## 🔍 Predictive Maintenance using Azure ML
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/Spoken-Digit-Recognition)
 
-The project revolves around Spoken Digit Recognition. The task involves reading and preprocessing a dataset of speech signals, with the goal of predicting the spoken digit. The project requires the use of LSTM networks for training both raw data and spectrogram-converted data. An additional task is to create augmented data and repeat the training process. The work should follow the provided instructions and graders, and return outputs in the specified formats.
+- Implement a Predictive Maintenance system using Azure Machine Learning (ML) with historical operational and maintenance data for accurate machinery maintenance forecasting
+- Leverage DevOps practices, including Docker containerization and GitHub Actions, for automated deployment workflows, facilitating real-time monitoring and proactive maintenance strategies
 
 <img src="https://sqali.github.io/assets/images/portfolio/spoken_digit_image.png" width="580">{: .align-center}
 
+<!--
 ## 🔍🌐 Semantic Search Engine
 ### Advanced search that understands context and meanings
 
@@ -75,4 +79,3 @@ Harnessing the power of neural networks, this project delves into the creation o
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://sqali.github.io/minimal-portfolio/projects/ames-house-price.html)
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://sqali.github.io/minimal-portfolio/pdf/bac2018.pdf)-->
-

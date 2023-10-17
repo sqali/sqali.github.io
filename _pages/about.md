@@ -12,7 +12,7 @@ header:
 
 ## Career Objectives
 ### Work Experience: Reporting and SQL
-👨‍💼 As an **Oracle PPM Analyst** at **TCS**, I've honed my project management skills and data analysis prowess within the Oracle ecosystem. 📊 Managing projects and diving into data using **Oracle Database SQL** 🛠️ has enriched my ability to extract insights and drive informed decisions. 💡
+👨‍💼 As an **Oracle PPM Analyst** at **TCS**, I've honed my project management skills and data analysis prowess within the Oracle ecosystem.
 
 ### Interests: Transitioning to AI Engineering
 🚀 My heart races for the realm of **Artificial Intelligence**, and my ambition is to metamorphose into an **AI Engineer**. 🤖 The allure of crafting intelligent systems that autonomously decode data, make perceptive choices, and excel in natural language understanding 🗣️ and computer vision captivates me. I'm drawn to the might of large language models like **GPT-3.5** 🧠 and the prowess of computer vision models. 📸
