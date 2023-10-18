@@ -17,7 +17,7 @@ header:
 ### Interests: Transitioning to AI Engineering
 🚀 My heart races for the realm of **Artificial Intelligence**, and my ambition is to metamorphose into an **AI Engineer**. 🤖 The allure of crafting intelligent systems that autonomously decode data, make perceptive choices, and excel in natural language understanding 🗣️ and computer vision captivates me. I'm drawn to the might of large language models like **GPT-3.5** 🧠 and the prowess of computer vision models. 📸
 
-### Contributions and Communication: Open Source and Blogging
+### Contributions and Communication: Open Source
 🌐 Embracing the power of collaboration, I contribute to open-source projects 🤝 and revel in the camaraderie of visionary minds.
 
 <!-- modify this form HTML and place wherever you want your form -->
