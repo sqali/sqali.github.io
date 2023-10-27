@@ -61,35 +61,31 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python, C++, Golang</td>
+            <td>Python, C++</td>
         </tr>
         <tr>
             <td>Database Management</td>
-            <td>Oracle SQL, MySQL</td>
+            <td>MySQL</td>
         </tr>
         <tr>
             <td>Cloud Computing</td>
-            <td>Oracle, AWS, Azure</td>
+            <td>Azure</td>
         </tr>
         <tr>
             <td>Infrastrucuture Management</td>
             <td>Terraform</td>
         </tr>
         <tr>
-            <td>Containerization</td>
-            <td>Docker</td>
+            <td>Big Data Processing</td>
+            <td>Apache Spark</td>
         </tr>
         <tr>
-            <td>Workflow Orchestration</td>
-            <td>Apache Airflow</td>
+            <td>Containerization & Orchestration</td>
+            <td>Docker, Kubernetes</td>
         </tr>
         <tr>
             <td>CI/CD</td>
             <td>GitHub Actions</td>
-        </tr>
-        <tr>
-            <td>MLOps</td>
-            <td>MLFlow</td>
         </tr>
         <tr>
             <td>Version Control</td>
@@ -134,14 +130,14 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306">Verify</a></td>
         </tr>-->
         <tr>
-            <td>Oracle Cloud Infrastructure Data Science Professional</td>
-            <td>1Z0-1110-23</td>
-            <td>&#x2705;</td>
-            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099">Verify</a></td>
+            <td>Azure Developer Associate</td>
+            <td>AZ-204</td>
+            <td></td>
+            <td><a href="#">Verify</a></td>
         </tr>
         <tr>
-            <td>AWS Developer Associate</td>
-            <td>DVA-C02</td>
+            <td>Kubernetes and Cloud Native Associate</td>
+            <td>KCNA</td>
             <td></td>
             <td><a href="#">Verify</a></td>
         </tr>
@@ -153,12 +149,6 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         <tr>
             <td>GitHub Actions</td>
-            <td></td>
-            <td></td>
-            <td><a href="#">Verify</a></td>
-        </tr>
-        <tr>
-            <td>GitHub Advanced Security</td>
             <td></td>
             <td></td>
             <td><a href="#">Verify</a></td>
