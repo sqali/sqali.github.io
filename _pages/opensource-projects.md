@@ -1,5 +1,5 @@
 ---
-title: "Open Source Projects"
+title: "Open Source Contributions"
 permalink: /opensource-projects/
 toc: true
 toc_label: "Table of Contents"

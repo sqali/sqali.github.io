@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 
 ---
-*Updated: 17/10/2023*
+*Updated: 17/11/2023*
 
 ## 🤖 Google Chatbot for Event Management
 

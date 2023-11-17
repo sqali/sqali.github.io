@@ -53,7 +53,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python</td>
+            <td>Python, C++</td>
         </tr>
         <tr>
             <td>Database Management</td>
@@ -62,6 +62,10 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         <tr>
             <td>Cloud Computing</td>
             <td>Azure</td>
+        </tr>
+        <tr>
+            <td>IaC</td>
+            <td>Terraform</td>
         </tr>
         <tr>
             <td>Containerization</td>
@@ -77,7 +81,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         <tr>
             <td>MS Office</td>
-            <td>Excel, Powerpoint, Word</td>
+            <td>Excel</td>
         </tr>
         <tr>
             <td>Coding IDE</td>
@@ -94,8 +98,6 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     </tbody>
 </table>
 
-
-<!--
 <h2>📜 Certifications</h2>
 <table>
     <thead>
@@ -119,9 +121,10 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>&#x2705;</td>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099">Verify</a></td>
         </tr>
+        -->
         <tr>
-            <td>AWS Developer Associate</td>
-            <td>DVA-C02</td>
+            <td>Azure Developer Associate</td>
+            <td>AZ-204</td>
             <td></td>
             <td><a href="#">Verify</a></td>
         </tr>
@@ -145,4 +148,3 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
     </tbody>
 </table>
--->
