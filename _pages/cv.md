@@ -72,6 +72,10 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>Docker</td>
         </tr>
         <tr>
+            <td>API</td>
+            <td>REST API, GraphQL</td>
+        </tr>
+        <tr>
             <td>CI/CD</td>
             <td>GitHub Actions</td>
         </tr>
@@ -123,8 +127,8 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         -->
         <tr>
-            <td>Azure Developer Associate</td>
-            <td>AZ-204</td>
+            <td>Azure Data Scientist Associate</td>
+            <td>DP-100</td>
             <td></td>
             <td><a href="#">Verify</a></td>
         </tr>
