@@ -53,7 +53,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python, C++</td>
+            <td>Python</td>
         </tr>
         <tr>
             <td>Database Management</td>
@@ -61,7 +61,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         <tr>
             <td>Cloud Computing</td>
-            <td>Azure</td>
+            <td>AWS</td>
         </tr>
         <tr>
             <td>IaC</td>
@@ -73,7 +73,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         <tr>
             <td>API</td>
-            <td>REST API, GraphQL</td>
+            <td>REST API</td>
         </tr>
         <tr>
             <td>CI/CD</td>
@@ -127,8 +127,8 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         -->
         <tr>
-            <td>Azure Data Scientist Associate</td>
-            <td>DP-100</td>
+            <td>AWS Machine Learning Specialty</td>
+            <td>MLS-C01</td>
             <td></td>
             <td><a href="#">Verify</a></td>
         </tr>
