@@ -23,8 +23,6 @@ header:
 
 Moreover, my involvement in numerous open source projects reflects my dedication to collaborative development. I excel in comprehending complex codebases, collaborating seamlessly with peers, and contributing meaningfully to shared objectives. My adeptness in reading and understanding diverse codebases allows me to swiftly adapt and innovate within dynamic environments. I prioritize proper documentation, ensuring clarity and ease of understanding for fellow contributors.
 
-Mastery of GitHub spans PR creation, issue management, and utilizing security features for code integrity. Proficient in implementing security best practices via GitHub's functionalities, including Dependabot for dependency management and code scanning through GitHub Actions, ensuring top-tier security standards and high-quality code production.
-
 <!-- modify this form HTML and place wherever you want your form -->
 ## Contact Me
 
