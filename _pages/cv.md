@@ -53,7 +53,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python</td>
+            <td>Python, C++</td>
         </tr>
         <tr>
             <td>Database Management</td>
@@ -62,10 +62,6 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         <tr>
             <td>Cloud Computing</td>
             <td>AWS</td>
-        </tr>
-        <tr>
-            <td>IaC</td>
-            <td>Terraform</td>
         </tr>
         <tr>
             <td>Containerization</td>
@@ -133,22 +129,11 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td><a href="#">Verify</a></td>
         </tr>
         <tr>
-            <td>Terraform Associate</td>
-            <td>003</td>
+            <td>Kubernetes and Cloud Native Associate (KCNA)</td>
+            <td>KCNA</td>
             <td></td>
             <td><a href="#">Verify</a></td>
         </tr>
-        <tr>
-            <td>GitHub Actions</td>
-            <td></td>
-            <td></td>
-            <td><a href="#">Verify</a></td>
-        </tr>
-        <tr>
-            <td>GitHub Advanced Security</td>
-            <td></td>
-            <td></td>
-            <td><a href="#">Verify</a></td>
         </tr>
     </tbody>
 </table>
