@@ -11,7 +11,8 @@ toc_icon: "bookmark"
 
 ## 📧 Contact
 - Email: [qaiserali45@gmail.com]()
-- LinkedIn: [linkedin.com/in/sayed-qaiser-ali-916b181ab/](https://www.linkedin.com/in/sqali/)
+- LinkedIn: [linkedin.com/in/sqali/](https://www.linkedin.com/in/sqali/)
+- Twitter: [twitter.com/qaiser_707](https://twitter.com/qaiser_707)
 
 ## 💼 Experience
 ### Tata Consultancy Services
