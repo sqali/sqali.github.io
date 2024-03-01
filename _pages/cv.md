@@ -26,11 +26,12 @@ My key responsibilities include:
 -	Collaborating with project teams to understand their business
 requirements and designing solutions that meet their needs
 -	Configuring and customizing Oracle PPM software to align
-with project management best practices and client-specific requirements.
--	Training end-users on how to use the Oracle PPM software
+with project management best practices and client-specific requirements
+-   Training end-users on how to use the Oracle PPM software
 and providing ongoing support
-- Identifying areas for process improvement and
-recommending solutions to optimize project management processes
+-   Using Oracle Database SQL to query data based on customer requirements
+-   Providing queried data to the reporting team for analysis and reporting purposes
+
 
 
 ## 🎓 Education
@@ -123,17 +124,16 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         -->
         <tr>
-            <td>AWS Machine Learning Specialty</td>
-            <td>MLS-C01</td>
-            <td></td>
-            <td><a href="#">Verify</a></td>
+            <td>Oracle Cloud Infrastructure 2023 Certified Data Science Professional</td>
+            <td>1Z0-1110-23</td>
+            <td>&#x2705;</td>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099">Verify</a></td>
         </tr>
         <tr>
-            <td>Kubernetes and Cloud Native Associate (KCNA)</td>
-            <td>KCNA</td>
-            <td></td>
+            <td>Microsoft Certified: Azure Data Scientist Associate</td>
+            <td>DP-100</td>
+            <td>&#x2705;</td>
             <td><a href="#">Verify</a></td>
-        </tr>
         </tr>
     </tbody>
 </table>

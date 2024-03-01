@@ -8,7 +8,7 @@ toc_icon: "bookmark"
 ---
 *Updated: 17/11/2023*
 
-## 🤖 Google Chatbot for Event Management
+<!--## 🤖 Google Chatbot for Event Management
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sqali/Applied-AI-Assignments/tree/main/Document%20Classification%20Using%20CNN)
 
