@@ -1,0 +1,30 @@
+Certainly, let's address the questions based on the provided information:
+
+1) **Tell me something about yourself or Please introduce yourself**
+   - My name is Sayed Qaiser Ali. I have previously worked as an Oracle PPM Analyst for 2.5 years in TCS, where I collaborated with project teams to understand business requirements and designed solutions using Oracle PPM software. I have experience configuring and customizing Oracle PPM software to align with project management best practices and client-specific requirements. Additionally, I have expertise in training end-users on Oracle PPM software, conducting user training sessions, creating user manuals, and troubleshooting assistance, creating and maintaining technical documentation, system configurations, user guides, and process manuals related to Oracle PPM implementation and usage. I also have proficiency in using Oracle Database SQL for querying data based on customer requirements and provided queried data to the reporting team for analysis and reporting purposes. 
+
+3) **Since your previous project was offshore based how do you think you will manage an onshore project like this**
+   - While my previous project was offshore-based, I believe the skills and experience I gained, such as effective collaboration with project teams, configuring software to meet client needs, and providing training and support, are transferable to an onshore project environment. I am adaptable and confident in my ability to communicate effectively and deliver results regardless of the project location.
+
+4) **Could you tell us more about the test management tools used by you to date**
+   - Basic knowledge of HP ALM tool that is used for application lifecycle management where we keep track of requirements, tests, and defects.
+
+5) **How will you manage your project if there is no onshore counterpart or offshore support on the QA side**
+   - In the absence of onshore counterparts or offshore support on the QA side, I would focus on establishing clear communication channels with stakeholders, ensuring that project requirements are well-documented and understood, and leveraging available resources effectively. I would also prioritize tasks, manage timelines, and proactively address any issues or challenges that arise during the project lifecycle.
+
+
+1. **If you have no onshore counterparts, how do you think you can manage a project?**
+   
+   - If there are no onshore counterparts, effective communication becomes crucial. I would utilize various communication tools such as video conferencing, emails, and instant messaging to maintain regular contact with the team. Clear documentation of tasks, timelines, and expectations is essential. Additionally, leveraging project management tools for task tracking and collaboration can help ensure smooth project execution.
+
+2. **How do you start your work as a test lead in a testing project?**
+   
+   - As a test lead, I would start by understanding the project requirements, objectives, and scope. I would analyze the available resources, including team members' skills and expertise. Then, I would develop a comprehensive test plan and strategy tailored to the project's needs. Clear communication of roles, responsibilities, and expectations with the team would be established from the outset.
+
+3. **How will you manage and deliver a project if one of your resources is not performing?**
+   
+   - Firstly, I would identify the reasons behind the resource's underperformance through open communication and constructive feedback sessions. If the issue is related to skill gaps or knowledge, I would provide training and mentorship. If the problem persists, I would reallocate tasks or resources within the team to balance workload and ensure project continuity. In extreme cases, I may need to escalate the issue to higher management for intervention or replacement.
+
+4. **In case there is a defect found in a higher environment which was not present in integration testing, how will you resolve and handle such a case?**
+   
+   - I would initiate a root cause analysis to understand why the defect was not detected during integration testing. This analysis may involve reviewing the testing process, test cases, test environment, and deployment procedures. Once the root cause is identified, I would work with the development team to prioritize and fix the defect promptly. Additionally, I would assess the impact of the defect on the project timeline and communicate updates to stakeholders as necessary. Finally, I would review and update the testing process to prevent similar issues in the future.
