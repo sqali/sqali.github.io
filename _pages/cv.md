@@ -70,14 +70,13 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         <tr>
             <td>Cloud Computing</td>
             <td>Azure</td>
-        </tr>
-        <tr>
-            <td>Containerization</td>
-            <td>Docker</td>
-        </tr>
         <tr>
             <td>API</td>
             <td>REST API</td>
+        </tr>
+        <tr>
+            <td>Containerization & Orchestration</td>
+            <td>Docker</td>
         </tr>
         <tr>
             <td>CI/CD</td>
@@ -124,10 +123,10 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306">Verify</a></td>
         </tr>
         <tr>
-            <td>Oracle Cloud Infrastructure Data Science Professional</td>
-            <td>1Z0-1110-23</td>
-            <td>&#x2705;</td>
-            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099">Verify</a></td>
+            <td>Azure Developer Associate</td>
+            <td>AZ-204</td>
+            <td></td>
+            <td><a href="#">Verify</a></td>
         </tr>
         -->
         <tr>
