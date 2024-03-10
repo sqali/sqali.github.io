@@ -7,7 +7,7 @@ toc_icon: "bookmark"
 ---
 [Download Resume](https://sqali.github.io/files/Sayed_Qaiser_Ali.pdf){: .btn .btn--info}
 
-*Updated: 17/08/2023*
+*Updated: 10/03/2024*
 
 ## 📧 Contact
 - Email: [qaiserali45@gmail.com]()
@@ -55,7 +55,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python, C++</td>
+            <td>Python</td>
         </tr>
         <tr>
             <td>Database Management</td>
@@ -63,7 +63,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
         <tr>
             <td>Cloud Computing</td>
-            <td>AWS</td>
+            <td>Azure</td>
         </tr>
         <tr>
             <td>Containerization</td>
@@ -130,6 +130,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>&#x2705;</td>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099">Verify</a></td>
         </tr>
+        <!--
         <tr>
             <td>Microsoft Certified: Azure Data Scientist Associate</td>
             <td>DP-100</td>
