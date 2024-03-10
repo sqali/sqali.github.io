@@ -27,11 +27,17 @@ My key responsibilities include:
 -	Collaborating with project teams to understand their business
 requirements and designing solutions that meet their needs
 -	Configuring and customizing Oracle PPM software to align
-with project management best practices and client-specific requirements
--   Training end-users on how to use the Oracle PPM software
+with project management best practices and client-specific requirements.
+-	Training end-users on how to use the Oracle PPM software
 and providing ongoing support
--   Using Oracle Database SQL to query data based on customer requirements
--   Providing queried data to the reporting team for analysis and reporting purposes
+- Identifying areas for process improvement and
+recommending solutions to optimize project management processes
+
+**Reporting & Analysis using Oracle Database SQL**
+
+- Data-Driven Insights: Leveraging my skills in Oracle Database SQL, I transform raw data into actionable insights
+- Tailored Reporting Solutions: I collaborate with colleagues to understand reporting requirements and design customized reporting solutions that cater to specific business needs
+- Cross-Functional Collaboration: Working closely with the reporting team, I synergize my Oracle PPM expertise with database querying capabilities
 
 
 
@@ -137,5 +143,6 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>&#x2705;</td>
             <td><a href="#">Verify</a></td>
         </tr>
+        -->
     </tbody>
 </table>
