@@ -72,6 +72,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         <tr>
             <td>Cloud Computing</td>
             <td>Azure</td>
+        </tr>
         <tr>
             <td>API</td>
             <td>REST API</td>
@@ -118,19 +119,6 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
     </thead>
     <tbody>
-        <!--<tr>
-            <td>Oracle Cloud Infrastructure Architect Associate</td>
-            <td>1Z0-1072-23</td>
-            <td>&#x2705;</td>
-            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306">Verify</a></td>
-        </tr>
-        <tr>
-            <td>Azure Developer Associate</td>
-            <td>AZ-204</td>
-            <td></td>
-            <td><a href="#">Verify</a></td>
-        </tr>
-        -->
         <tr>
             <td>Oracle Cloud Infrastructure 2023 Certified Data Science Professional</td>
             <td>1Z0-1110-23</td>
