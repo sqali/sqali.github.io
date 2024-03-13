@@ -35,10 +35,12 @@ recommending solutions to optimize project management processes
 
 **Reporting & Analysis using Oracle Database SQL**
 
-- Data-Driven Insights: Leveraging my skills in Oracle Database SQL, I transform raw data into actionable insights
-- Tailored Reporting Solutions: I collaborate with colleagues to understand reporting requirements and design customized reporting solutions that cater to specific business needs
-- Cross-Functional Collaboration: Working closely with the reporting team, I synergize my Oracle PPM expertise with database querying capabilities
-
+- Experienced SQL Analyst: With over 2 years of hands-on experience in SQL, I've honed my skills in Oracle Database SQL and MySQL, enabling me to deliver impactful analytical solutions
+- Actionable Insights: Through my proficiency in SQL, particularly in Oracle Database SQL, I've consistently transformed raw data into actionable insights, driving informed decision-making within the organization
+- Collaborative Approach: By collaborating closely with colleagues and leveraging my SQL expertise, I've contributed to the design and implementation of tailored reporting solutions that have addressed specific business needs effectively
+- Demonstrated Impact: Proactively responding to client needs, I played a pivotal role in providing data-driven insights that enabled the tracking of costs across various business units
+- Expense Monitoring: By leveraging my SQL expertise, I facilitated the extraction and analysis of data related to expenditure items such as petrol and hotel expenses incurred by employees, enabling precise cost monitoring and optimization strategies
+- Client Satisfaction: Through my adeptness in SQL, I consistently delivered accurate and timely data, empowering clients to make informed decisions and optimize their expenditure effectively
 
 
 ## 🎓 Education
