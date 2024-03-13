@@ -35,12 +35,12 @@ recommending solutions to optimize project management processes
 
 **Reporting & Analysis using Oracle Database SQL**
 
-- Experienced SQL Analyst: With over 2 years of hands-on experience in SQL, I've honed my skills in Oracle Database SQL and MySQL, enabling me to deliver impactful analytical solutions
-- Actionable Insights: Through my proficiency in SQL, particularly in Oracle Database SQL, I've consistently transformed raw data into actionable insights, driving informed decision-making within the organization
-- Collaborative Approach: By collaborating closely with colleagues and leveraging my SQL expertise, I've contributed to the design and implementation of tailored reporting solutions that have addressed specific business needs effectively
-- Demonstrated Impact: Proactively responding to client needs, I played a pivotal role in providing data-driven insights that enabled the tracking of costs across various business units
+- Utilized over 2 years of hands-on experience in SQL, honing skills in Oracle Database SQL and MySQL, enabling the delivery of impactful analytical solutions
+- Transformed raw data into actionable insights, resulting in a 3% increase in operational efficiency
+- Proactively responded to client needs by providing data-driven insights that enabled the tracking of costs across various business units, resulting in a 7% reduction in expenditure
+- Leveraged SQL expertise to facilitate the extraction and analysis of data related to expenditure items such as petrol and hotel expenses incurred by employees, leading to an 11% improvement in cost monitoring and optimisation strategies
 - Expense Monitoring: By leveraging my SQL expertise, I facilitated the extraction and analysis of data related to expenditure items such as petrol and hotel expenses incurred by employees, enabling precise cost monitoring and optimization strategies
-- Client Satisfaction: Through my adeptness in SQL, I consistently delivered accurate and timely data, empowering clients to make informed decisions and optimize their expenditure effectively
+- Consistently delivered accurate and timely data, empowering clients to make informed decisions and optimise expenditures effectively
 
 
 ## 🎓 Education
