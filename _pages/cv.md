@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-[Download Resume](https://sqali.github.io/files/Sayed_Qaiser_Ali.pdf){: .btn .btn--info}
+[Download Resume](https://sqali.github.io/files/Sayed_Qaiser_Ali_Resume.pdf){: .btn .btn--info}
 
 *Updated: 10/03/2024*
 
