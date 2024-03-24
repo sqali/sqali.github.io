@@ -15,7 +15,7 @@ header:
 👨‍💼 As an **Oracle PPM Analyst** at **TCS**, I've honed my project management skills and data analysis prowess within the Oracle ecosystem.
 
 ### Interests: Transitioning to AI Engineering
-🚀 My heart races for the realm of **Artificial Intelligence**, and my ambition is to metamorphose into an **ML Engineer**. 🤖 The allure of crafting intelligent systems that autonomously decode data, make perceptive choices, and excel in natural language understanding 🗣️ and computer vision captivates me. I'm drawn to the might of large language models like **GPT-3.5** 🧠 and the prowess of computer vision models. 📸
+🚀 My passion lies in the realm of data analysis, where I have honed my skills in utilizing SQL to craft effective solutions during my tenure as an Oracle PPM Analyst. With experience in writing queries for data analysis purposes, I aspire to transition into a role as a Data Analyst. The allure of decoding data and making perceptive choices captivates me.
 
 ### Contributions and Communication: Open Source
 🌐 Embracing the power of collaboration, I contribute to open-source projects 🤝 and revel in the camaraderie of visionary minds.
