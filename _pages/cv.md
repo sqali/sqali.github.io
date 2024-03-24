@@ -35,12 +35,11 @@ recommending solutions to optimize project management processes
 
 **Reporting & Analysis using Oracle Database SQL**
 
-- Utilized over 2 years of hands-on experience in SQL, honing skills in Oracle Database SQL and MySQL, enabling the delivery of impactful analytical solutions
-- Transformed raw data into actionable insights, resulting in a 3% increase in operational efficiency
-- Proactively responded to client needs by providing data-driven insights that enabled the tracking of costs across various business units, resulting in a 7% reduction in expenditure
-- Leveraged SQL expertise to facilitate the extraction and analysis of data related to expenditure items such as petrol and hotel expenses incurred by employees, leading to an 11% improvement in cost monitoring and optimisation strategies
-- Expense Monitoring: By leveraging my SQL expertise, I facilitated the extraction and analysis of data related to expenditure items such as petrol and hotel expenses incurred by employees, enabling precise cost monitoring and optimization strategies
-- Consistently delivered accurate and timely data, empowering clients to make informed decisions and optimise expenditures effectively
+- Utilized over 2.5+ years of hands-on experience in SQL, honing skills in Oracle Database SQL enabling the delivery of impactful analytical solutions.
+- Transformed data into actionable insights, resulting in a 3% increase in operational efficiency.
+- Proactively responded to client needs by providing data-driven insights that enabled tracking costs across various business units, resulting in a 7% reduction in expenditure.
+- Leveraged SQL to extract and analyze data related to expenditure items, and expenses incurred by employees, leading to an 11% improvement in cost monitoring and optimization strategies.
+- Automated 5+ Excel reports using VBA, saving approximately 1 hour of weekly time.
 
 
 ## 🎓 Education
