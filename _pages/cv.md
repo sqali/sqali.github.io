@@ -33,7 +33,7 @@ and providing ongoing support
 - Identifying areas for process improvement and
 recommending solutions to optimize project management processes
 
-**Reporting & Analysis using Oracle Database SQL**
+**Data Analysis using Oracle Database SQL**
 
 - Utilized over 2.5+ years of hands-on experience in SQL, honing skills in Oracle Database SQL enabling the delivery of impactful analytical solutions.
 - Transformed data into actionable insights, resulting in a 3% increase in operational efficiency.
