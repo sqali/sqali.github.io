@@ -11,16 +11,14 @@ header:
 {: .text-center}
 
 ## Career Objectives
-### Work Experience: Reporting and SQL
-👨‍💼 As an **Oracle PPM Analyst** at **TCS**, I've honed my project management skills and data analysis prowess within the Oracle ecosystem.
+### Work Experience:
+👨‍💻 As an automation Python engineer, I've excelled in streamlining processes and enhancing efficiency through code, bringing a wealth of expertise to the table.
 
 ### Interests: Transitioning to AI Engineering
-🚀 My passion lies in the realm of data analysis, where I have honed my skills in utilizing SQL to craft effective solutions during my tenure as an Oracle PPM Analyst. With experience in writing queries for data analysis purposes, I aspire to transition into a role as a Data Analyst. The allure of decoding data and making perceptive choices captivates me.
+🚀 With a strong foundation in automation and a passion for leveraging Python for efficiency, I'm eager to pivot towards roles in the data landscape. Whether it's building robust data pipelines or unraveling insights, I'm keen to contribute my skills to the dynamic world of data.
 
 ### Contributions and Communication: Open Source
 🌐 Embracing the power of collaboration, I contribute to open-source projects 🤝 and revel in the camaraderie of visionary minds.
-
-Moreover, my involvement in numerous open source projects reflects my dedication to collaborative development. I excel in comprehending complex codebases, collaborating seamlessly with peers, and contributing meaningfully to shared objectives. My adeptness in reading and understanding diverse codebases allows me to swiftly adapt and innovate within dynamic environments. I prioritize proper documentation, ensuring clarity and ease of understanding for fellow contributors.
 
 <!-- modify this form HTML and place wherever you want your form -->
 ## Contact Me
