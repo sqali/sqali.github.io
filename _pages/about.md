@@ -12,7 +12,7 @@ header:
 
 ## Career Objectives
 ### Work Experience:
-👨‍💻 As an automation Python engineer, I've excelled in streamlining processes and enhancing efficiency through code, bringing a wealth of expertise to the table.
+👨‍💻 As a Python Automation Engineer, I've excelled in streamlining processes and enhancing efficiency through code, bringing a wealth of expertise to the table.
 
 ### Interests: Transitioning to AI Engineering
 🚀 With a strong foundation in automation and a passion for leveraging Python for efficiency, I'm eager to pivot towards roles in the data landscape. Whether it's building robust data pipelines or unraveling insights, I'm keen to contribute my skills to the dynamic world of data.
