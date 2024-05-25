@@ -24,11 +24,7 @@ header:
 ## Contact Me
 
 Please fill out the form below if you'd like to get in touch:
-<form
-  class="custom-form"
-  action="https://formspree.io/f/xvojvnpz"
-  method="POST"
->
+<form action="https://formsubmit.co/qaiserali45@gmail.com" method="POST">
   <label>
     <b>Your email</b>:
     <input type="email" name="email">
