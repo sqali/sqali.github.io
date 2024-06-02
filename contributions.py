@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 # Handling environmental issues
 
 # If running on local IDE else GitHub Actions
-if os.getenv('GITHUB_ACTIONS') == True:
+if os.getenv('GITHUB_ACTIONS') == "true":
     GH_TOKEN = os.getenv('ACCESS_TOKEN')
 
 else:
