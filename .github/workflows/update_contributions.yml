@@ -38,7 +38,7 @@ jobs:
 
     - name: Make changes
       run: |
-        git add opensource-projects.md
+        git add _pages/opensource-projects.md
         git commit -m "Update open source project page of contributions file"
     
     - name: Push Changes
