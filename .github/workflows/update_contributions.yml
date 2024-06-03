@@ -45,5 +45,5 @@ jobs:
       env:
         GH_PAT: ${{ secrets.ACCESS_TOKEN }}
       run: |
-        git remote set-url orgin https://x-access-token:${GH_PAT}@github.com/sqali/sqali.github.io.git
+        git remote set-url origin https://x-access-token:${GH_PAT}@github.com/sqali/sqali.github.io.git
         git push origin job
