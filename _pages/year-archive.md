@@ -6,7 +6,7 @@ layout: posts
 
 Browse [posts by tag](https://sqali.github.io/tags/).
 
-<!--## 🤖 Automating Open source contribution updation on GitHub Portfolio
+🤖 Automating Open source contribution updation on GitHub Portfolio
 
 - Showcase your GitHub contributions on your GitHub hosted Portfolio
 - Use Python, REST API, GitHub Actions for automating the process
