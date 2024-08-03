@@ -122,10 +122,10 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     </thead>
     <tbody>
         <tr>
-            <td>Oracle Cloud Infrastructure 2023 Certified Data Science Professional</td>
-            <td>1Z0-1110-23</td>
+            <td>Microsoft Certified: Azure Data Scientist Associate</td>
+            <td>DP-100</td>
             <td>&#x2705;</td>
-            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099">Verify</a></td>
+            <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/SayedQaiserAli-9002/A7684E2A06AE8ACE?sharingId=7AA0624C40F3B3F3">Verify</a></td>
         </tr>
         <!--
         <tr>
