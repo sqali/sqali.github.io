@@ -16,34 +16,9 @@ toc_icon: "bookmark"
 
 ## 💼 Experience
 ### Tata Consultancy Services
-***Python Automation Engineer***
+***Systems Engineer***
 
-*March 2024 - Present, Bhubaneswar, Odisha, India*
-
-***Oracle PPM Analyst***
-
-*July 2021 - Feb 2024, Bhubaneswar, Odisha, India*
-
-My key responsibilities include:
-
-**Data Analysis**
-
-- Utilized over 2.5+ years of hands-on experience in SQL, honing skills in Oracle Database SQL enabling the delivery of impactful analytical solutions.
-- Transformed data into actionable insights, resulting in a 3% increase in operational efficiency.
-- Leveraged SQL to extract and analyze data related to expenditure items, and expenses incurred by employees, leading to an 11% improvement in cost monitoring and optimization strategies.
-- Automated 5+ Excel reports using VBA, saving approximately 1 hour of weekly time.
-
-**Oracle PPM**
-
--	Collaborating with project teams to understand their business
-requirements and designing solutions that meet their needs
--	Configuring and customizing Oracle PPM software to align
-with project management best practices and client-specific requirements.
--	Training end-users on how to use the Oracle PPM software
-and providing ongoing support
-- Identifying areas for process improvement and
-recommending solutions to optimize project management processes
-
+*July 2021 - Present, Bhubaneswar, Odisha, India*
 
 ## 🎓 Education
 ### National Institute of Science & Technology
