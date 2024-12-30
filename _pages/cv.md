@@ -102,13 +102,11 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>&#x2705;</td>
             <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/SayedQaiserAli-9002/A7684E2A06AE8ACE?sharingId=7AA0624C40F3B3F3">Verify</a></td>
         </tr>
-        <!--
         <tr>
-            <td>Microsoft Certified: Azure Data Scientist Associate</td>
-            <td>DP-100</td>
+            <td>Microsoft Certified: Azure AI Engineer Associate</td>
+            <td>AI-102</td>
             <td>&#x2705;</td>
-            <td><a href="#">Verify</a></td>
+            <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/SayedQaiserAli-9002/399BE8C5FB146707?sharingId=7AA0624C40F3B3F3">Verify</a></td>
         </tr>
-        -->
     </tbody>
 </table>
