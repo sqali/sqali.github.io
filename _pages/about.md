@@ -12,7 +12,7 @@ header:
 
 ## Career Objectives
 ### Work Experience:
-👨‍💻 Data Engineer focused on cloud-native, Delta Lake–powered pipelines and automated data workflows.
+👨‍💻 Data Engineer focused on cloud-native, Delta Lake-powered pipelines and automated data workflows.
 <!-- modify this form HTML and place wherever you want your form -->
 ## Contact Me
 
