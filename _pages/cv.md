@@ -16,7 +16,7 @@ toc_icon: "bookmark"
 
 ## 💼 Experience
 ### Tata Consultancy Services
-***Systems Engineer***
+***Data Engineer***
 
 *July 2021 - Present, Bhubaneswar, Odisha, India*
 
@@ -57,6 +57,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         <tr>
             <td>API</td>
             <td>REST API Ingestion</td>
+        </tr>
         <tr>
             <td>CI/CD</td>
             <td>GitHub Actions</td>
@@ -87,7 +88,7 @@ I frequently publish articles to discuss recent research in Natural Language Pro
             <td>Databricks Certified Data Engineer Associate</td>
             <td>PR000054</td>
             <td>&#x2705;</td>
-            <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/SayedQaiserAli-9002/399BE8C5FB146707?sharingId=7AA0624C40F3B3F3](https://credentials.databricks.com/978e7c8f-91c3-44ea-8a1c-16993a4ae502#acc.TsR4JM7L)">Verify</a></td>
+            <td><a href="https://credentials.databricks.com/978e7c8f-91c3-44ea-8a1c-16993a4ae502#acc.TsR4JM7L">Verify</a></td>
         </tr>
         <tr>
             <td>Microsoft Certified: Azure Data Scientist Associate</td>
