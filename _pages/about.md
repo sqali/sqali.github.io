@@ -12,14 +12,7 @@ header:
 
 ## Career Objectives
 ### Work Experience:
-👨‍💻 As a Python Automation Engineer, I've excelled in streamlining processes and enhancing efficiency through code, bringing a wealth of expertise to the table.
-
-### Interests: Transitioning to Data-Driven Roles
-🚀 With a strong foundation in automation and a passion for leveraging Python for efficiency, I'm eager to pivot towards roles in the data landscape. Whether it's building robust data pipelines or unraveling insights, I'm keen to contribute my skills to the dynamic world of data.
-
-### Contributions and Communication: Open Source
-🌐 Embracing the power of collaboration, I contribute to open-source projects 🤝 and revel in the camaraderie of visionary minds.
-
+👨‍💻 Data Engineer focused on cloud-native, Delta Lake–powered pipelines and automated data workflows.
 <!-- modify this form HTML and place wherever you want your form -->
 ## Contact Me
 
