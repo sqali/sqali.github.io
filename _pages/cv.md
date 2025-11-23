@@ -40,24 +40,23 @@ I frequently publish articles to discuss recent research in Natural Language Pro
     <tbody>
         <tr>
             <td>Programming</td>
-            <td>Python</td>
+            <td>Python, PySpark, SQL</td>
         </tr>
         <tr>
             <td>Database Management</td>
-            <td>MySQL</td>
+            <td>Azure SQL Database</td>
+        </tr>
+        <tr>
+            <td>Big Data & Storage</td>
+            <td>Delta Lake, Azure Data Lake (ADLS Gen2)</td>
         </tr>
         <tr>
             <td>Cloud Computing</td>
-            <td>Azure</td>
+            <td>Azure (Databricks, Azure Data Factory, Functions)</td>
         </tr>
         <tr>
             <td>API</td>
-            <td>REST API</td>
-        </tr>
-        <tr>
-            <td>Containerization & Orchestration</td>
-            <td>Docker</td>
-        </tr>
+            <td>REST API Ingestion</td>
         <tr>
             <td>CI/CD</td>
             <td>GitHub Actions</td>
@@ -65,18 +64,6 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         <tr>
             <td>Version Control</td>
             <td>Git, GitHub</td>
-        </tr>
-        <tr>
-            <td>MS Office</td>
-            <td>Excel</td>
-        </tr>
-        <tr>
-            <td>Coding IDE</td>
-            <td>VS Code</td>
-        </tr>
-        <tr>
-            <td>GenAI tool</td>
-            <td>OpenAI (ChatGPT), Midjourney</td>
         </tr>
         <tr>
             <td>Operating System</td>
@@ -96,6 +83,12 @@ I frequently publish articles to discuss recent research in Natural Language Pro
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Databricks Certified Data Engineer Associate</td>
+            <td>PR000054</td>
+            <td>&#x2705;</td>
+            <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/SayedQaiserAli-9002/399BE8C5FB146707?sharingId=7AA0624C40F3B3F3](https://credentials.databricks.com/978e7c8f-91c3-44ea-8a1c-16993a4ae502#acc.TsR4JM7L)">Verify</a></td>
+        </tr>
         <tr>
             <td>Microsoft Certified: Azure Data Scientist Associate</td>
             <td>DP-100</td>
